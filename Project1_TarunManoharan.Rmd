@@ -1,0 +1,88 @@
+---
+title: "Project 1"
+author: "Tarun Manoharan"
+date: "2023-09-22"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+```{r global_options, echo=FALSE}
+knitr::opts_chunk$set(fig.height=3, fig.width=4, warning=FALSE, tidy=TRUE, tidy.opts=list(width.cutoff=60))
+```
+
+```{r echo = FALSE}
+  Skyscrapers = read.csv('Datasets/Project1_skyscrapers.csv')
+  library(ggplot2)
+  Skyplot = ggplot(Skyscrapers)
+```
+
+------------------------------------------------------------------------
+
+# **1. Background Information**
+
+## ***Data set Information***
+
+The 'Skyscrapers' data set is data collected by the skyscraper center, on statistics about the tallest buildings in the world, including the materials, status, floors, location, height, start and end year, and the years to build.
+
+![Skyscrapers in Dubai, United Arab Emirates. Francois Nel/Getty Images (cropped)](Skyscrapers.jpeg)
+
+## ***Variable Information***
+
+The chosen variable is the years to build variable, that explains the amount of years the building took to build. The three predictor variables are
+
+-   Material, the material used for the building
+-   Floors, the number of floors the building has
+-   Height, the height of the building in meters
+
+# **2. Outcome Variable**
+
+```{r echo = FALSE, fig.height = 4,fig.width = 6}
+Skyplot + geom_histogram(aes(x = YearsToBuild), binwidth = 1, col = 'black', fill = 'palegreen') + labs(title = 'Frequency of the Amount of Years to Build', x = 'Years to Build', y = 'Frequency') + theme_classic()
+```
+
+The distribution of this variable is unimodal, and skewed right, the minimum, lower quartile, median, upper quartile, and maximum, are as such, `r fivenum(Skyscrapers$YearsToBuild)`, and the mean is `r round(mean(Skyscrapers$YearsToBuild),2)`.
+
+# **3. Predictor Variables**\*
+
+## ***Materials***
+
+```{r echo = FALSE, fig.height = 4,fig.width = 6}
+Skyplot + geom_boxplot(aes(x = Material, y = YearsToBuild), col = 'black', fill = 'skyblue') + theme_classic() + labs(title = 'Materials and Years to Build', x = 'Materials', y = 'Years to Build')
+```
+
+These are the aggregates for the relationship between type of material, showing that composite took the longest to build with a mean of about 2.96 years, concrete right behind with about 2.5 years, and masonry with the lowest at around 2.25. Although steel has the largest variance having the lowest minimum and the highest maximum.
+
+```{r echo = FALSE, comment = ""}
+aggregate(YearsToBuild~Material, data = Skyscrapers, FUN = function(x){round(mean(x),digits = 2)})
+```
+
+## ***Floors***
+
+```{r echo = FALSE, fig.height = 4, fig.width = 6}
+Skyplot + geom_point(aes(x = Floors, y = YearsToBuild), fill = 'pink1', shape = 21) + theme_classic() + labs(title = 'Number of Floors and Years to Build', y = 'Years to Build')
+```
+
+This graph shows the relationship between the number of floors and the years to build, which has a correlation coefficient of `r round(cor(Skyscrapers$Floors, Skyscrapers$YearsToBuild),2)`, which means that although positive the relationship between the two is weak, and the number of floors has little to no causation on the years it takes to build. 
+
+## ***Height***
+
+```{r echo = FALSE, fig.height = 4, fig.width = 6}
+Skyplot + geom_point(aes(x = Height, y = YearsToBuild), fill = 'aquamarine', shape = 21) + theme_classic() + labs(title = 'Height and Years to Build', x = "Height (m)", y = 'Years to Build')
+
+```
+
+This graph shows the relationship between the height of a building and the years to build, which has a correlation coefficient of `r round(cor(Skyscrapers$Height, Skyscrapers$YearsToBuild),2)`, which means that although positive, the relationship between the two is slightly weak, and the height has little to no causation on the years it takes to build. 
+
+# **4. Conclusion**
+
+In conclusion, the effect on the years it takes to build a skyscraper has little to do with what the building is made out of, how tall it is, or how many floors it has, with the most relation to the steel material. The correlation of both floors and height were under 0.3 with height having a higher correlation at 0.2 versus the correlation of the number of floors which was 0.15. It is likely that the year the building was built in and the technology available has more of an effect on the number of years it takes to build a skyscraper, than just the sheer size of the building itself. <span style =" color: green;">Overall, the number of years to build isn't significantly related to the size and material of a building, but a future area of exploration is the technology available, and the era of time the building was built.</span>
+
+***
+
+### **References**
+
+[https://www.ctbuh.org/?redirect=true](https://www.ctbuh.org/?redirect=true) - Skyscraper Center
+
+[https://corgis-edu.github.io/corgis/csv/skyscrapers/](https://corgis-edu.github.io/corgis/csv/skyscrapers/) - Data set
