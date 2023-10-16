@@ -1,0 +1,1276 @@
+Name,City,Material,Floors,Height,CurrentStatus,CompletedYear,StartYear,YearsToBuild
+Jayne Building,Philadelphia,masonry,10,39.31,demolished,1850,1849,1
+New York Tribune Building,New York City,masonry,18,79.25,demolished,1875,1873,2
+The Rookery,Chicago,steel,12,55.02,completed,1888,1885,3
+Auditorium Building,Chicago,masonry,17,72.63,completed,1889,1887,2
+World Building,New York City,steel,20,94.18,demolished,1890,1889,1
+Masonic Temple,Chicago,steel,21,92.05,demolished,1892,1891,1
+Monadnock Building,Chicago,masonry,17,60.05,completed,1893,1889,4
+Manhattan Life Insurance Building,New York City,steel,18,106.07,demolished,1894,1893,1
+Reliance Building,Chicago,steel,15,61.47,completed,1895,1894,1
+D. S. Morgan Building,Buffalo,steel,12,67.36,demolished,1895,1894,1
+Guaranty Building,Buffalo,steel,13,51,completed,1896,1895,1
+Bank of Tokyo Building,New York City,steel,26,103,completed,1896,1894,2
+Gillender Building,New York City,steel,19,83,demolished,1897,1896,1
+Ferry Building,San Francisco,steel,12,74.68,completed,1898,1896,2
+St. Paul Building,New York City,steel,26,96,demolished,1898,1895,3
+Bayard-Condict Building,New York City,steel,13,49.38,completed,1899,1897,2
+6 North Michigan,Chicago,steel,22,85.95,completed,1899,1897,2
+Park Row Building,New York City,steel,30,119.18,completed,1899,1896,3
+Macy's Store,New York City,steel,11,60.96,completed,1902,1901,1
+Farmers Bank Building,Pittsburgh,steel,25,105,demolished,1902,1900,2
+The Bank Center,Pittsburgh,steel,16,72.5,completed,1903,1902,1
+43 Exchange Place,New York City,steel,25,99.67,completed,1903,1902,1
+Wall Street Exchange Building,New York City,steel,25,103.9,completed,1903,1902,1
+Hanover National Bank Building,New York City,steel,22,117.35,demolished,1903,1901,2
+Santa Fe Building,Chicago,steel,17,78.94,completed,1904,1903,1
+Trinity Building,New York City,steel,22,106.68,completed,1905,1904,1
+60 Wall Street,New York City,steel,26,107.29,demolished,1905,1903,2
+Benedum-Trees Building,Pittsburgh,steel,19,76.8,completed,1906,1905,1
+Fisher Building,Chicago,steel,20,83.82,completed,1906,1895,11
+100 5th Avenue,New York City,steel,16,73.76,completed,1907,1905,2
+United States Realty Building,New York City,steel,22,97,completed,1907,1906,1
+City Investing Building,New York City,steel,33,148.29,demolished,1908,1906,2
+Singer Building,New York City,steel,47,186.57,demolished,1908,1906,2
+Knickerbocker Trust Building,New York City,steel,27,116,demolished,1909,1907,2
+Metropolitan Life Tower,New York City,steel,50,213.36,completed,1909,1907,2
+Boston Building,Salt Lake City,steel,11,50,completed,1910,1908,2
+Renaissance Blackstone,Chicago,steel,21,88.4,completed,1910,1908,2
+Henry W. Oliver Building,Pittsburgh,steel,25,105.8,completed,1910,1908,2
+Whitehall Building Annex,New York City,steel,31,129.24,completed,1910,1909,1
+Alico Building,Waco,steel,21,85.95,completed,1911,1910,1
+Emerson Tower,Baltimore,steel,15,88.1,completed,1911,1907,4
+Underwood Building,New York City,steel,18,69.5,completed,1912,1911,1
+102 5th Avenue,New York City,steel,19,82.91,completed,1912,1910,2
+McCormick Building,Chicago,steel,20,95.7,completed,1912,1908,4
+Tower Building,Baltimore,steel,16,100.59,demolished,1912,1910,2
+14 Wall,New York City,steel,29,164.59,completed,1912,1910,2
+Consumers Building,Chicago,steel,22,88.7,completed,1913,1912,1
+Chrysler House,Detroit,steel,23,98.6,completed,1913,1910,3
+Woolworth Building,New York City,steel,57,241.4,completed,1913,1910,3
+Michigan Boulevard Building,Chicago,steel,21,82.3,completed,1914,1913,1
+Macy's at State Street,Chicago,steel,13,83,completed,1914,1901,13
+Smith Tower,Seattle,steel,38,140.82,completed,1914,1911,3
+Municipal Building,New York City,steel,34,176.79,completed,1914,1909,5
+Soo Line Building,Minneapolis,steel,20,79.58,completed,1915,1914,1
+Marriott's Custom House,Boston,steel,32,151.18,completed,1915,1913,2
+Equitable Building,New York City,steel,38,169.16,completed,1915,1913,2
+Union Trust Building,Pittsburgh,steel,15,72.24,completed,1916,1915,1
+David Whitney Building,Detroit,steel,19,82.9,completed,1916,1915,1
+Omni William Penn Hotel,Pittsburgh,steel,26,92.95,completed,1916,1914,2
+5 Penn Plaza,New York City,steel,24,104.55,completed,1916,1915,1
+Bush Tower,New York City,steel,30,131.68,completed,1917,1916,1
+Ten Eyck Hotel,Albany,steel,17,62.18,demolished,1918,1917,1
+195 Broadway,New York City,steel,29,128.63,completed,1922,1913,9
+Wrigley Building,Chicago,steel,27,133.51,completed,1922,1920,2
+Tribune Tower,Oakland,steel,20,94.49,completed,1923,1906,17
+London Guarantee Building,Chicago,steel,22,97.02,completed,1923,1922,1
+Pershing Square Building,New York City,steel,30,110.64,completed,1923,1922,1
+1312-1314 Chestnut Street,Philadelphia,steel,15,70.71,completed,1924,1923,1
+Huntington Bank Building,Cleveland,steel,21,88.09,completed,1924,1921,3
+AT&T Center,Milwaukee,steel,19,95.4,completed,1924,1918,6
+The Bryant Park Hotel,New York City,steel,23,103,completed,1924,1923,1
+Westin Book-Cadillac Detroit,Detroit,steel,31,106.4,completed,1924,1923,1
+The Allerton Hotel Chicago,Chicago,steel,25,109.73,completed,1924,1923,1
+Metropolitan Tower,Chicago,steel,37,144.78,completed,1924,1923,1
+26 Broadway,New York City,steel,31,158.5,completed,1924,1922,2
+Chicago Temple Building,Chicago,steel,23,173.13,completed,1924,1922,2
+Buhl Building,Detroit,steel,29,111.6,completed,1925,1924,1
+140 New Montgomery Street,San Francisco,steel,26,132.7,completed,1925,1924,1
+Tribune Tower,Chicago,steel,34,141.12,completed,1925,1922,3
+270 West 39th Street,New York City,steel,20,71.32,completed,1926,1925,1
+Ward Memorial Building,Chicago,steel,20,85,completed,1926,1925,1
+200 Madison Avenue,New York City,steel,25,117.35,completed,1926,1923,3
+American Furniture Mart,Chicago,concrete/steel,29,144.48,completed,1926,1922,4
+Book Tower,Detroit,steel,38,144.78,completed,1926,1916,10
+Barclay-Vesey Building,New York City,steel,32,151.79,completed,1926,1923,3
+Ritz Hotel Tower,New York City,steel,41,164.9,completed,1926,1925,1
+McKay Tower,Grand Rapids,steel,18,78.9,completed,1927,1926,1
+315 West 36th Street,New York City,steel,16,79.55,completed,1927,1926,1
+Chicago Hilton & Towers,Chicago,steel,29,103.63,completed,1927,1925,2
+Ohio Bell Huron Building,Cleveland,steel,22,111.25,completed,1927,1925,2
+Fred F. French Building,New York City,steel,38,130.76,completed,1927,1926,1
+50 Broadway,New York City,steel,37,136.55,completed,1927,1926,1
+Roanoke Building,Chicago,steel,37,137.77,completed,1927,1913,14
+Paramount Building,New York City,steel,31,138.68,completed,1927,1926,1
+Bankers Building,Chicago,steel,41,145.09,completed,1927,1926,1
+35 East Wacker Drive,Chicago,steel,40,159.41,completed,1927,1925,2
+Pittsfield Building,Chicago,steel,38,167.97,completed,1927,1926,1
+Leveque Tower,Columbus,steel,47,169.3,completed,1927,1924,3
+Cudahy Tower,Milwaukee,steel,16,68.4,completed,1928,1927,1
+Wacker Tower,Chicago,steel,17,72.09,completed,1928,1927,1
+Law and Finance Building,Pittsburgh,steel,21,76.2,completed,1928,1927,1
+Plummer Building,Rochester,steel,19,90.7,completed,1928,1926,2
+Pennsylvania Power & Light Building,,steel,24,98.02,completed,1928,1926,2
+Miami-Dade County Courthouse,Miami,concrete,28,109.7,completed,1928,1925,3
+Broderick Tower Lofts,Detroit,steel,35,112.6,completed,1928,1926,2
+Three AT&T Plaza,Dallas,steel,24,113.39,completed,1928,1927,1
+333 North Michigan,Chicago,steel,34,120.7,completed,1928,1927,1
+ITT Building,New York City,steel,35,131.98,completed,1928,1927,1
+Harriman Building,New York City,steel,37,134.72,completed,1928,1926,2
+Fisher Building,Detroit,steel,30,135.47,completed,1928,1927,1
+City Hall,Los Angeles,steel,27,138.38,completed,1928,1926,2
+Consolidated Gas Building,New York City,steel,24,145.7,completed,1928,1924,4
+20 Pine,New York City,steel,38,151,completed,1928,1926,2
+Mather Tower,Chicago,steel,38,158.9,completed,1928,1926,2
+Penobscot Building,Detroit,steel,47,173.26,completed,1928,1927,1
+New York Life Building,New York City,steel,33,187.5,completed,1928,1926,2
+Terminal Tower,Cleveland,steel,52,215.8,completed,1928,1923,5
+Kanawha Valley Building,Charleston,steel,20,80.75,completed,1929,1928,1
+The Powhatan,Chicago,concrete,22,82.22,completed,1929,1927,2
+Riverside Plaza,Chicago,steel,26,92.05,completed,1929,1928,1
+Rand Tower,Minneapolis,steel,27,94.68,completed,1929,1928,1
+Reynolds Building,Winston-Salem,steel,21,95.72,completed,1929,1928,1
+Seattle Tower,Seattle,steel,27,96.9,completed,1929,1927,2
+200 Carondelet,New Orleans,steel,23,100.6,completed,1929,1928,1
+Shell Building,San Francisco,steel,29,115.22,completed,1929,1928,1
+Tower Life Building,San Antonio,steel,30,123.14,completed,1929,1927,2
+David Stott Building,Detroit,steel,32,133.08,completed,1929,1928,1
+W Minneapolis - The Foshay,Minneapolis,steel,32,136.55,completed,1929,1926,3
+Hotel InterContinental,Chicago,steel,42,143.56,completed,1929,1927,2
+Koppers Building,Pittsburgh,steel,34,144.78,completed,1929,1927,2
+Fuller Building,New York City,steel,42,150,completed,1929,1928,1
+Guardian Building,Detroit,steel,40,151.03,completed,1929,1928,1
+Carbide & Carbon Building,Chicago,steel,37,153.32,completed,1929,1928,1
+One Hanson Place,New York City,steel,42,156.06,completed,1929,1927,2
+Civic Opera Building,Chicago,steel,45,169.17,completed,1929,1927,2
+Palmolive Building,Chicago,steel,37,172.21,completed,1929,1927,2
+Mercantile Building,New York City,steel,48,192.6,completed,1929,1929,0
+Chanin Building,New York City,steel,56,197.8,completed,1929,1927,2
+Plaza Hotel,El Paso,concrete,19,72.85,completed,1930,1929,1
+Washington Athletic Club,Seattle,steel,22,75.6,completed,1930,1928,2
+Wisconsin Gas Building,Milwaukee,steel,20,76.2,completed,1930,1929,1
+Continental Life Building,St. Louis,steel,22,87.1,completed,1930,1929,1
+Merchandise Mart,Chicago,steel,25,103.63,completed,1930,1928,2
+First National Building,Detroit,steel,26,103.9,completed,1930,1921,9
+Sterick Building,Memphis,steel,29,111.25,completed,1930,1928,2
+Claridge Tower at Bally`s,Atlantic City,steel,23,112.78,completed,1930,1929,1
+Western Union Building,New York City,steel,24,113,completed,1930,1928,2
+Alfred E. Smith State Office Building,Albany,steel,34,118.26,completed,1930,1927,3
+1441 Broadway,New York City,steel,33,122.2,completed,1930,1928,2
+Savoy-Plaza Hotel,New York City,steel,33,135.94,demolished,1930,1927,3
+Eleven80,Newark,steel,35,136.6,completed,1930,1929,1
+Trump Parc Condominiums,New York City,steel,36,139,completed,1930,1929,1
+Daily News Building,New York City,steel,36,145.09,completed,1930,1928,2
+33 North LaSalle,Chicago,steel,38,146,completed,1930,1928,2
+Grant Building,Pittsburgh,steel,40,147.83,completed,1930,1927,3
+LaSalle-Wacker Building,Chicago,steel,41,156.06,completed,1930,1929,1
+Millennium Towers North,New York City,steel,44,156.06,completed,1930,1928,2
+The Downtown Club,New York City,steel,39,157.89,completed,1930,1929,1
+One North LaSalle Street,Chicago,steel,48,161.55,completed,1930,1929,1
+Chicago Board of Trade,Chicago,steel,44,184.41,completed,1930,1929,1
+The Trump Building,New York City,steel,71,282.55,completed,1930,1929,1
+Chrysler Building,New York City,steel,77,318.9,completed,1930,1928,2
+Boji Tower,Lansing,steel,23,90.5,completed,1931,1929,2
+Park Plaza Apartments,St. Louis,steel,27,95.5,completed,1931,1929,2
+Bryant Building,Kansas City,steel,26,96.9,completed,1931,1929,2
+FirstMerit Tower,Akron,steel,27,100.59,completed,1931,1929,2
+Federal Building & J.W. McCormack Post,Boston,steel,22,105.2,completed,1931,1929,2
+The Majestic,New York City,steel,29,105.46,completed,1931,1930,1
+Camden City Hall,Camden,steel,18,113.08,completed,1931,1929,2
+Buffalo City Hall,Buffalo,steel,32,115.22,completed,1931,1929,2
+1410 Broadway,New York City,steel,35,124.36,completed,1931,1930,1
+First National Bank Building,St. Paul,steel,32,127.1,completed,1931,1929,2
+80 Broad Street,New York City,steel,36,127.4,completed,1931,1930,1
+The Carlyle,New York City,steel,38,129.85,completed,1931,1930,1
+745 5th Avenue,New York City,steel,34,132.59,completed,1931,1929,2
+Daily Commerce Building,New York City,steel,38,135,completed,1931,1930,1
+1400 Broadway,New York City,steel,35,135.64,completed,1931,1930,1
+Greenwich Club Residences,New York City,steel,37,135.94,completed,1931,1929,2
+909 Walnut,Kansas City,steel,35,138.3,completed,1931,1930,1
+National Newark Building,Newark,steel,34,141.73,completed,1931,1930,1
+Kansas City Power & Light Building,Kansas City,steel,34,146.61,completed,1931,1930,1
+McGraw-Hill Building,New York City,steel,33,147.83,completed,1931,1930,1
+Johns-Manville Building,New York City,steel,43,153.32,completed,1931,1930,1
+Continental Building,New York City,steel,42,155.76,completed,1931,1930,1
+Newsweek Building,New York City,steel,42,158,completed,1931,1930,1
+Carew Tower,Cincinnati,steel,49,175,completed,1931,1929,2
+Waldorf Astoria New York,New York City,steel,47,190.5,completed,1931,1930,1
+570 Lexington Avenue,New York City,steel,50,196,completed,1931,1929,2
+500 Fifth Avenue,New York City,steel,59,212.45,completed,1931,1930,1
+Twenty Exchange,New York City,steel,57,225.86,completed,1931,1929,2
+Empire State Building,New York City,steel,102,381,completed,1931,1930,1
+New York Hospital Cornell Medical Center,New York City,steel,27,114.61,completed,1932,1930,2
+Nebraska State Capitol,Lincoln (NE),steel,22,121.21,completed,1932,1922,10
+CenturyLink Building,Minneapolis,steel,26,128.3,completed,1932,1930,2
+Louisiana State Capitol,Baton Rouge,steel,34,140.21,completed,1932,1931,1
+One South Broad,Philadelphia,steel,28,144.37,completed,1932,1930,2
+Loews Philadelphia Hotel,Philadelphia,steel,36,149.96,completed,1932,1929,3
+30 Broad Street,New York City,steel,48,171,completed,1932,1931,1
+Gulf Tower,Pittsburgh,steel,44,177.4,completed,1932,1930,2
+One Wall Street,New York City,steel,50,199.34,completed,1932,1929,3
+70 Pine,New York City,steel,67,290.17,completed,1932,1930,2
+2 Wall Street,New York City,steel,22,100.6,completed,1933,1932,1
+Comcast Building,New York City,steel,70,259.08,completed,1933,1931,2
+North Dakota State Capitol,Bismarck,steel,19,73.76,completed,1934,1932,2
+LaSalle National Bank,Chicago,steel,45,163.07,completed,1934,1931,3
+International Building,New York City,steel,41,156.06,completed,1935,1933,2
+Cathedral of Learning,Pittsburgh,steel,42,163.07,completed,1936,1926,10
+Thurgood Marshall U.S. Court House,New York City,steel,37,179.83,completed,1936,1932,4
+University of Texas Tower,Austin,steel,29,93.6,completed,1937,1935,2
+City Hall,Kansas City,steel,30,135,completed,1937,1935,2
+One Rockefeller Plaza,New York City,steel,34,149,completed,1937,1936,1
+Medical Center of Louisiana Charity Hospital,New Orleans,steel,20,85,completed,1939,1937,2
+Suffolk County Courthouse,Boston,steel,19,100.6,completed,1939,1936,3
+10 Rockefeller Plaza,New York City,steel,17,69.5,completed,1940,1939,1
+Time Warner Building,New York City,steel,33,129.24,completed,1947,1946,1
+Crown Plaza Cincinnati,Cincinnati,steel,19,82.91,completed,1949,1947,2
+1001 McKinney Bldg.,Houston,steel,22,86.87,completed,1949,1947,2
+100 Park Avenue,New York City,steel,36,135.03,completed,1949,1948,1
+Metropolitan Life North Building,New York City,steel,31,137.47,completed,1950,1931,19
+860 North Lake Shore Drive,Chicago,steel,26,82.3,completed,1951,1949,2
+880 North Lake Shore Drive,Chicago,steel,26,82.3,completed,1951,1949,2
+Hippodrome Building,New York City,steel,19,87.17,completed,1952,1951,1
+Lever House,New York City,steel,21,93.57,completed,1952,1950,2
+Regional Enterprise Tower,Pittsburgh,steel,30,124.97,completed,1953,1951,2
+United Nations Secretariat Building,New York City,steel,39,154.3,completed,1953,1947,6
+Metro Tower,Lubbock,steel,20,83.52,completed,1955,1954,1
+Mayo Building,Rochester,composite,20,90,completed,1955,1952,3
+One Prudential Plaza,Chicago,steel,41,183.19,completed,1955,1952,3
+Price Tower Arts Center,Bartlesville,concrete,19,58.22,completed,1956,1953,3
+Capitol Records Building,Los Angeles,steel,13,67,completed,1956,1954,2
+Commonwealth Promenade I,Chicago,concrete/steel,27,77.12,completed,1956,1953,3
+Commonwealth Promenade II,Chicago,concrete/steel,27,77.12,completed,1956,1953,3
+20 Broad Street,New York City,steel,23,118.87,completed,1956,1955,1
+Landmark Tower,Fort Worth,steel,30,115.83,demolished,1957,1952,5
+1065 Avenue of the Americas,New York City,steel,38,137.47,completed,1957,1955,2
+666 5th Avenue,New York City,steel,39,147.22,completed,1957,1956,1
+55 Public Square,Cleveland,concrete/steel,22,91.44,completed,1958,1956,2
+Wilco Building,Midland,steel,22,93.57,completed,1958,1956,2
+Inland Steel Building,Chicago,steel,19,101.3,completed,1958,1956,2
+Seagram Building,New York City,steel,38,156.97,completed,1958,1956,2
+Hercules Tower,Wilmington,steel,22,87.48,demolished,1960,1958,2
+Harris Bank Addition I,Chicago,steel,23,98.2,completed,1960,1957,3
+1550 North Lake Shore Drive Apartments,Chicago,concrete,34,103,completed,1960,1958,2
+Canadian Pacific Plaza,Minneapolis,steel,28,114.76,completed,1960,1958,2
+80 Pine Street,New York City,steel,40,151.5,completed,1960,1957,3
+1285 Avenue of the Americas,New York City,steel,42,164.6,completed,1960,1959,1
+JPMorgan Chase Tower,New York City,steel,52,215.5,completed,1960,1957,3
+Hartford Plaza North,Chicago,concrete,20,74.37,completed,1961,1959,2
+Transunion Building,Chicago,concrete,24,101.8,completed,1961,1959,2
+One City Centre,Houston,steel,32,125,completed,1961,1959,2
+Citibank Building,New York City,steel,41,159.72,completed,1961,1959,2
+28 Liberty,New York City,steel,60,247.81,completed,1961,1957,4
+Hollywood Towers North,Chicago,concrete,29,82.3,completed,1962,1961,1
+Hollywood Towers South,Chicago,concrete,29,82.3,completed,1962,1961,1
+CNA Plaza North,Chicago,steel,24,101.5,completed,1962,1961,1
+City-County Building,Indianapolis,steel,28,113.46,completed,1962,1960,2
+60 Broad Street,New York City,steel,39,153.32,completed,1962,1960,2
+Kemper Building,Chicago,steel,41,159.11,completed,1962,1960,2
+Continental Can Building,New York City,steel,39,169.78,completed,1962,1959,3
+Mercy Medical Center Inpatient Tower,Baltimore,steel,20,84,completed,1963,1958,5
+Riley Towers I,Indianapolis,concrete,30,89.92,completed,1963,1962,1
+Riley Towers II,Indianapolis,concrete,30,89.92,completed,1963,1962,1
+Michigan Terrace Condominiums,Chicago,concrete,33,100,completed,1963,1961,2
+Outer Drive East,Chicago,concrete,36,115.22,completed,1963,1962,1
+1290 Avenue of the Americas,New York City,steel,43,174.04,completed,1963,1961,2
+277 Park Avenue,New York City,steel,50,209.4,completed,1963,1958,5
+MetLife Building,New York City,steel,59,246.28,completed,1963,1960,3
+Phoenix Mutual Life Insurance Building,Hartford,steel,14,64.62,completed,1964,1962,2
+Cecil and Ida Green Center for Earth Sciences,Cambridge,concrete,21,84.43,completed,1964,1962,2
+Four Penn Center,Philadelphia,steel,22,85.04,completed,1964,1963,1
+Society Hill Towers I,Philadelphia,concrete,31,94.18,completed,1964,1961,3
+Society Hill Towers II,Philadelphia,concrete,31,94.18,completed,1964,1961,3
+Society Hill Towers III,Philadelphia,concrete,31,94.18,completed,1964,1961,3
+Mayfair Towers,New York City,steel,36,101.19,completed,1964,1963,1
+1st Tennessee Bank Building,Memphis,steel,25,101.2,completed,1964,1961,3
+Everett McKinley Dirksen United States Courthouse,Chicago,steel,30,116.74,completed,1964,1959,5
+777 North Michigan,Chicago,concrete,38,121.92,completed,1964,1963,1
+Cook County Administration Building,Chicago,concrete,35,144.78,completed,1964,1962,2
+Tower at Erieview,Cleveland,steel,40,161.24,completed,1964,1963,1
+330 Madison Avenue,New York City,steel,41,169.17,completed,1964,1963,1
+Marina City I,Chicago,concrete,61,171.4,completed,1964,1960,4
+Marina City II,Chicago,concrete,61,171.4,completed,1964,1960,4
+Pearson on the Park,Chicago,concrete,27,80,completed,1965,1963,2
+Horizon House,Chicago,concrete,30,86.7,completed,1965,1964,1
+South Shore Beach Apartments,Chicago,concrete,34,100.3,completed,1965,1964,1
+ADA Building,Chicago,composite,23,100.59,completed,1965,1963,2
+1001 Woodward,Detroit,steel,23,103,completed,1965,1963,2
+Phoenix Corporate Center,Phoenix,concrete,26,103.9,completed,1965,1962,3
+Equitable Building,Chicago,steel,35,139.29,completed,1965,1963,2
+CBS Building,New York City,concrete,38,149.66,completed,1965,1961,4
+Vehicle Assembly Building,Cape Canaveral,steel,40,160.3,completed,1965,1962,3
+Richard J. Daley Center,Chicago,steel,31,197.51,completed,1965,1963,2
+River Towers A,Minneapolis,concrete,16,53.3,completed,1966,1964,2
+River Towers B,Minneapolis,concrete,27,82.1,completed,1966,1964,2
+136 E South Temple,Salt Lake City,concrete,25,83.52,completed,1966,1965,1
+One M&T Plaza,Buffalo,steel,21,96,completed,1966,1964,2
+Hawthorne House,Chicago,concrete,42,111.86,completed,1966,1965,1
+The Plaza on Dewitt,Chicago,concrete,43,120.4,completed,1966,1963,3
+Home Insurance Plaza,New York City,steel,44,192.03,completed,1966,1964,2
+Pointe 400,St. Louis,concrete,15,65.84,completed,1967,1966,1
+Lincoln Tower,Columbus,concrete,24,79.25,completed,1967,1965,2
+Morrill Tower,Columbus,concrete,24,79.25,completed,1967,1965,2
+KMOV Gateway Tower,St. Louis,concrete,21,79.55,completed,1967,1966,1
+The Carlyle,Chicago,concrete,40,118.26,completed,1967,1964,3
+East Point,Chicago,concrete,43,119.18,completed,1967,1966,1
+One Maritime Plaza,San Francisco,steel,25,121.3,completed,1967,1964,3
+World Trade Center New Orleans,New Orleans,concrete,33,124.06,completed,1967,1963,4
+Federal Building,Cleveland,steel,31,127.71,completed,1967,1964,3
+1130 South Michigan,Chicago,concrete,43,131.37,completed,1967,1966,1
+Excelsior House,New York City,concrete,47,147,completed,1967,1964,3
+44 Montgomery,San Francisco,steel,43,172.25,completed,1967,1966,1
+299 Park Avenue,New York City,steel,42,174.96,completed,1967,1965,2
+Jacob K. Javits Federal Building,New York City,steel,41,178.92,completed,1967,1963,4
+McDonald Investment Center,Cleveland,steel,23,93.88,completed,1968,1967,1
+City National Bank Building,Los Angeles,steel,24,106.07,completed,1968,1966,2
+2800 North Lake Shore Drive,Chicago,concrete,43,113.4,completed,1968,1967,1
+K & L Gates Center,Pittsburgh,steel,39,155.76,completed,1968,1966,2
+Union Bank Plaza,Los Angeles,steel,40,157.28,completed,1968,1965,3
+Plaza Tower,New Orleans,steel,45,161.85,completed,1968,1964,4
+Lake Point Tower,Chicago,concrete,70,196.45,completed,1968,1965,3
+General Motors Building,New York City,steel,50,214.89,completed,1968,1964,4
+Franklin Towers,Portland (ME),concrete,16,52.75,completed,1969,1967,2
+Vassar Square Condominiums,Ventnor City,concrete,21,66.45,completed,1969,1968,1
+Chase Bank Building,Evanston,concrete,22,84.37,completed,1969,1968,1
+Knights of Columbus Tower,New Haven,composite,23,97.74,completed,1969,1967,2
+Malibu Condominiums,Chicago,concrete,39,106.7,completed,1969,1967,2
+Charles Towers South Apartments,Baltimore,concrete,30,117.35,completed,1969,1965,4
+Union Bank of California Building,San Diego,steel,27,118.3,completed,1969,1967,2
+Westin Seattle South Tower,Seattle,steel,40,121,completed,1969,1967,2
+Time-Life Building,Chicago,concrete,30,123.14,completed,1969,1967,2
+One Indiana Square,Indianapolis,steel,37,153.62,completed,1969,1967,2
+Safeco Plaza,Seattle,steel,50,192.03,completed,1969,1966,3
+Chase Tower,Chicago,steel,60,259.08,completed,1969,1966,3
+John Hancock Center,Chicago,steel,100,343.69,completed,1969,1965,4
+Sheraton Hotel,Gary,concrete,14,41.45,demolished,1970,1968,2
+500 Broadway Building,St. Louis,concrete,22,85.83,completed,1970,1969,1
+525 Hawthorne,Chicago,concrete,31,86.87,completed,1970,1968,2
+Wells Fargo Plaza,Tacoma,concrete,25,103,completed,1970,1969,1
+One Illinois Center,Chicago,concrete,30,110.3,completed,1970,1967,3
+1110 North Lake Shore Drive,Chicago,concrete,40,120,completed,1970,1968,2
+Tower on the Maumee,Toledo,steel,30,121.92,completed,1970,1969,1
+1250 Broadway,New York City,steel,30,136.3,completed,1970,1969,1
+Trump International Hotel & Tower,New York City,steel,44,177.62,completed,1970,1968,2
+U.S. Steel Tower,Pittsburgh,steel,64,256.34,completed,1970,1967,3
+Pacific Building,Seattle,steel,23,91.2,completed,1971,1969,2
+Edgewater Plaza South,Chicago,concrete,38,105.5,completed,1971,1970,1
+Rhodes Tower,Cleveland,steel,20,110.64,completed,1971,1968,3
+Coastal States Insurance Building,Atlanta,steel,27,114.9,completed,1971,1970,1
+Kettering Tower,Dayton,steel,30,123.55,completed,1971,1969,2
+McClurg Court Center A,Chicago,concrete,46,131,completed,1971,1970,1
+McClurg Court Center B,Chicago,concrete,46,131,completed,1971,1970,1
+Gateway Center III,Chicago,composite,35,137.16,completed,1971,1970,1
+Regents Park South,Chicago,concrete,37,108.9,completed,1972,1970,2
+AT&T City Center,Birmingham (AL),steel,30,118.87,completed,1972,1969,3
+180 North LaSalle,Chicago,concrete,37,132.58,completed,1972,1971,1
+PNC Tower,Louisville,steel,40,156.06,completed,1972,1970,2
+CNA Plaza,Chicago,steel,44,183.19,completed,1972,1970,2
+AMA Plaza,Chicago,composite,52,211.84,completed,1972,1971,1
+One Astor Plaza,New York City,composite,54,227.08,completed,1972,1968,4
+1251 Avenue of the Americas,New York City,steel,54,228.6,completed,1972,1967,5
+Transamerica Pyramid,San Francisco,composite,48,260,completed,1972,1969,3
+One World Trade Center,New York City,steel,110,417,demolished,1972,1966,6
+Brady Sullivan Plaza,Manchester (NH),steel,20,78.94,completed,1973,1970,3
+990 North Lake Shore Drive,Chicago,concrete,33,102,completed,1973,1972,1
+McKnight Tower Apartments,Minneapolis,concrete,39,102.83,completed,1973,1968,5
+Bryan Tower,Dallas,steel,40,156.06,completed,1973,1970,3
+Park Tower Condominiums,Chicago,concrete,54,156.31,completed,1973,1971,2
+Legg Mason Building,Baltimore,concrete,40,161.24,completed,1973,1970,3
+Elysees Condominiums,Chicago,concrete,56,161.24,completed,1973,1971,2
+901 Fifth Avenue,Seattle,steel,41,163.38,completed,1973,1970,3
+Wells Fargo Center,Portland,steel,40,166.42,completed,1973,1969,4
+IDS Tower,Minneapolis,composite,55,241.38,completed,1973,1969,4
+Aon Center,Chicago,steel,83,346.26,completed,1973,1970,3
+Two World Trade Center,New York City,steel,110,415.14,demolished,1973,1966,7
+Bank of America Center,Richmond,steel,26,101.5,completed,1974,1971,3
+2500 North Lakeview,Chicago,concrete,35,101.5,completed,1974,1973,1
+Regents Park North,Chicago,concrete,36,104.18,completed,1974,1972,2
+100 Van Ness,San Francisco,steel,30,122,completed,1974,1973,1
+Henry M. Jackson Federal Building,Seattle,composite,37,148.44,completed,1974,1971,3
+Bank of America Plaza,Charlotte,steel,40,153.32,completed,1974,1972,2
+Harris Bank Bank Addition II,Chicago,steel,35,155.45,completed,1974,1972,2
+Newberry Plaza,Chicago,concrete,53,168.56,completed,1974,1972,2
+Solow Building,New York City,steel,49,210,completed,1974,1968,6
+Willis Tower,Chicago,steel,108,442.14,completed,1974,1970,4
+Metropolitan Correctional Center,Chicago,concrete,27,88.09,completed,1975,1973,2
+Ruan Center,Des Moines,steel,36,140.11,completed,1975,1973,2
+First Federal Plaza,Rochester,steel,21,94.18,completed,1976,1974,2
+Westin Bonaventure Hotel,Los Angeles,composite,35,118.26,completed,1976,1974,2
+Qwest Plaza,Seattle,steel,33,142,completed,1976,1973,3
+One US Bank Plaza,St. Louis,steel,35,147.6,completed,1976,1973,3
+Renaissance Center 100 Tower,Detroit,concrete,39,155,completed,1976,1973,3
+Renaissance Center 200 Tower,Detroit,concrete,39,155,completed,1976,1973,3
+Renaissance Center 300 Tower,Detroit,concrete,39,155,completed,1976,1973,3
+Renaissance Center 400 Tower,Detroit,concrete,39,155,completed,1976,1973,3
+Olympic Tower,New York City,concrete/steel,51,189,completed,1976,1974,2
+200 Clarendon,Boston,steel,62,240.79,completed,1976,1972,4
+Water Tower Place,Chicago,concrete,74,261.88,completed,1976,1972,4
+One Rotary Center,Evanston,steel,18,72.16,completed,1977,1975,2
+State Capitol Tower,Tallahassee,steel,23,98.15,completed,1977,1974,3
+Hennepin County Government Center,Minneapolis,steel,24,123.23,completed,1977,1969,8
+Justice Center,Cleveland,steel,26,128.02,completed,1977,1972,5
+Manhattan Plaza Apartments I,New York City,concrete,46,130.45,completed,1977,1974,3
+Manhattan Plaza Apartments II,New York City,concrete,46,130.45,completed,1977,1974,3
+Detroit Marriott at the Renaissance Center,Detroit,concrete,70,221.49,completed,1977,1973,4
+Citigroup Center,New York City,steel,63,278.9,completed,1977,1974,3
+410 Building,Denver,concrete/steel,24,102.1,completed,1978,1977,1
+1100 North Lake Shore Drive,Chicago,concrete,40,124.97,completed,1979,1977,2
+899 South Plymouth Court,Chicago,concrete,27,78.87,completed,1980,1978,2
+500 West Fifth Street,Winston-Salem,steel,21,100.59,completed,1980,1978,2
+National City Center,Cleveland,concrete,35,125,completed,1980,1978,2
+Columbus Plaza,Chicago,concrete,47,142.65,completed,1980,1978,2
+55 West Monroe,Chicago,concrete,41,150.92,completed,1980,1977,3
+Marriott World Trade Center,New York City,steel,22,73.75,demolished,1981,1979,2
+Thrivent Financial Building,Minneapolis,steel,17,80.52,completed,1981,1979,2
+Georgia Power Company Headquarters,Atlanta,steel,24,91,completed,1981,1976,5
+100 Washington Square,Minneapolis,concrete,22,103.84,completed,1981,1979,2
+200 South Wacker,Chicago,concrete,41,152.3,completed,1981,1979,2
+Bank of America Fifth Avenue Plaza,Seattle,steel,42,165.51,completed,1981,1979,2
+American Towers Condominiums North Tower,Salt Lake City,concrete,26,98.76,completed,1982,1981,1
+American Towers Condominiums South Tower,Salt Lake City,concrete,26,98.76,completed,1982,1981,1
+Hotel Inter-Continental Miami,Miami,concrete/steel,34,111.56,completed,1982,1980,2
+Sheraton Seattle Hotel,Seattle,steel,34,113.08,completed,1982,1979,3
+The Palace,Miami,concrete,42,121.9,completed,1982,1979,3
+One Summit Square,Fort Wayne,concrete,27,134.72,completed,1982,1978,4
+Shaklee Terrace Building,San Francisco,steel,38,163.98,completed,1982,1979,3
+520 Madison Avenue,New York City,concrete/steel,43,175.87,completed,1982,1980,2
+Madison Plaza,Chicago,steel,44,182.46,completed,1982,1981,1
+101 California Street,San Francisco,steel,48,183,completed,1982,1979,3
+101 Park Avenue,New York City,concrete,49,191.72,completed,1982,1979,3
+Trump Tower,New York City,concrete,58,202.39,completed,1982,1980,2
+Williams Tower,Houston,steel,64,274.63,completed,1982,1981,1
+JPMorgan Chase Tower,Houston,composite,75,305.41,completed,1982,1978,4
+1418 North Lake Shore Drive,Chicago,concrete,29,89,completed,1983,1980,3
+The Columbia,New York City,concrete,35,108.2,completed,1983,1981,2
+Eaton Center,Cleveland,concrete,28,108.51,completed,1983,1981,2
+One Logan Square,Philadelphia,concrete,31,121.92,completed,1983,1979,4
+Providian Financial Building,San Francisco,steel,30,127,completed,1983,1981,2
+One Cleveland Center,Cleveland,steel,31,137.16,completed,1983,1980,3
+Miami Center,Miami,steel,34,147.52,completed,1983,1981,2
+333 Wacker Drive,Chicago,steel,36,148.57,completed,1983,1981,2
+Ontario Place,Chicago,concrete,49,150.88,completed,1983,1982,1
+30 South Wacker,Chicago,concrete,40,158.5,completed,1983,1982,1
+U.S. Bancorp Tower,Portland,steel,42,163.38,completed,1983,1973,10
+WEDGE International Tower,Houston,steel,44,167.64,completed,1983,1981,2
+Crain Communications Building,Chicago,concrete,41,177.4,completed,1983,1982,1
+550 Madison Avenue,New York City,steel,37,197.32,completed,1983,1980,3
+33 South 6th Street,Minneapolis,concrete,52,203.58,completed,1983,1981,2
+Wells Fargo Tower,Los Angeles,steel,54,220.37,completed,1983,1982,1
+Southeast Financial Center,Miami,composite,55,232.8,completed,1983,1982,1
+Bank of America Center,Houston,steel,56,237.75,completed,1983,1981,2
+Wells Fargo Plaza,Houston,steel,71,302.37,completed,1983,1979,4
+777 South State,Chicago,concrete,27,95.1,completed,1984,1983,1
+Pacwest Center,Portland,composite,30,127.4,completed,1984,1982,2
+KOIN Center,Portland,concrete,31,155.15,completed,1984,1981,3
+One AT&T Plaza,Dallas,steel,37,176.79,completed,1984,1981,3
+KPMG Tower,Los Angeles,steel,45,184.8,completed,1984,1981,3
+One PPG Place,Pittsburgh,steel,40,193.55,completed,1984,1981,3
+Columbia Center,Seattle,composite,76,284.38,completed,1984,1982,2
+Hermitage on Huron,Chicago,concrete,26,79.55,completed,1985,1983,2
+First Interstate Center,Billings,steel,20,82.91,completed,1985,1984,1
+James R. Thompson Center,Chicago,steel,17,93.9,completed,1985,1983,2
+Marquette Place,Minneapolis,concrete,36,99.8,completed,1985,1982,3
+Loop Transportation Center,Chicago,concrete,27,102.41,completed,1985,1983,2
+The Plaza,Des Moines,concrete,27,103.6,completed,1985,1984,1
+Humana Building,Louisville,steel,27,127.1,completed,1985,1983,2
+Presidential Towers I,Chicago,concrete,49,140.6,completed,1985,1983,2
+Presidential Towers II,Chicago,concrete,49,140.6,completed,1985,1983,2
+Presidential Towers III,Chicago,concrete,49,140.6,completed,1985,1983,2
+Presidential Towers IV,Chicago,concrete,49,140.6,completed,1985,1983,2
+One California Plaza,Los Angeles,steel,42,176.18,completed,1985,1983,2
+Campbell Mithun Tower,Minneapolis,concrete/steel,42,177.24,completed,1985,1983,2
+50 Fremont Center,San Francisco,steel,43,183,completed,1985,1983,2
+200 Public Square,Cleveland,steel,46,200.56,completed,1985,1982,3
+Bank of America Plaza,Dallas,composite,72,280.72,completed,1985,1983,2
+World Trade Center at City Creek,Salt Lake City,steel,22,97.54,completed,1986,1984,2
+Trump Plaza I,West Palm Beach,concrete,32,100.6,completed,1986,1984,2
+Museum Tower,Miami,concrete,30,114.9,completed,1986,1983,3
+1835 Market Street,Philadelphia,steel,29,129.54,completed,1986,1985,1
+53rd at Third,New York City,steel,34,138.08,completed,1986,1983,3
+Fifth Third Center,Nashville,concrete,30,149.35,completed,1986,1983,3
+Fountain Place,Dallas,steel,62,219.46,completed,1986,1984,2
+Olympia Centre,Chicago,concrete,63,222.9,completed,1986,1981,5
+Three World Financial Center,New York City,steel,51,225.2,completed,1986,1985,1
+Marmon Building,Chicago,steel,28,119.78,completed,1987,1985,2
+Accenture Tower,Minneapolis,concrete,33,138.52,completed,1987,1985,2
+Wells Fargo Place,St. Paul,concrete,37,143.61,completed,1987,1985,2
+Plaza VII,Minneapolis,steel,36,144.64,completed,1987,1984,3
+10 South Wacker,Chicago,concrete,40,158.5,completed,1987,1985,2
+190 South LaSalle,Chicago,steel,40,174.65,completed,1987,1985,2
+Miami Tower,Miami,concrete,47,190.5,completed,1987,1980,7
+Heritage Plaza,Houston,steel,53,232.26,completed,1987,1984,3
+1133 North Dearborn,Chicago,concrete,33,97.89,completed,1988,1987,1
+BMO Plaza,Indianapolis,steel,31,122.23,completed,1988,1986,2
+Three Nationwide Plaza,Columbus,steel,26,124.36,completed,1988,1987,1
+Market Tower,Indianapolis,concrete,32,128.17,completed,1988,1986,2
+The Tower,Burbank,concrete,32,140.2,completed,1988,1987,1
+San Antonio Marriott Rivercenter,San Antonio,concrete,38,166.42,completed,1988,1986,2
+The Corinthian,New York City,concrete,55,166.42,completed,1988,1986,2
+One Wells Fargo Center,Charlotte,steel,42,179.23,completed,1988,1986,2
+One Kansas City Place,Kansas City,concrete,42,189.89,completed,1988,1985,3
+1201 Third Avenue Tower,Seattle,steel,55,235.31,completed,1988,1986,2
+375 Hudson Street,New York City,steel,19,64,completed,1989,1987,2
+420 5th Avenue,New York City,steel,30,119.18,completed,1989,1988,1
+Horizon Apartments,New York City,concrete,42,122.84,completed,1989,1986,3
+300 North Meridian,Indianapolis,concrete,28,124.36,completed,1989,1988,1
+225 West Wacker,Chicago,concrete,28,132,completed,1989,1987,2
+Swissotel Chicago,Chicago,concrete,43,139.29,completed,1989,1986,3
+200 North Dearborn Apartments,Chicago,concrete,47,141.07,completed,1989,1987,2
+City Centre,Seattle,steel,44,184.82,completed,1989,1987,2
+Leo Burnett Building,Chicago,composite,46,193.55,completed,1989,1986,3
+Figueroa at Wilshire,Los Angeles,steel,52,218.54,completed,1989,1986,3
+Two Union Square,Seattle,composite,56,225.56,completed,1989,1987,2
+60 Wall Street,New York City,steel,55,227.08,completed,1989,1988,1
+1 Worldwide Plaza,New York City,steel,47,237.14,completed,1989,1986,3
+The Franklin - North Tower,Chicago,composite,60,306.94,completed,1989,1987,2
+RiverCenter I,Covington,steel,19,94,completed,1990,1989,1
+Hilton Suites Chicago,Chicago,concrete,29,95,completed,1990,1988,2
+Brookdale Plaza,Chicago,concrete,38,113.39,completed,1990,1988,2
+AMA Building,Chicago,steel,30,130,completed,1990,1988,2
+Trump Taj Mahal Casino Hotel,Atlantic City,composite,42,130.76,completed,1990,1987,3
+Embassy Suites Times Square,New York City,composite,44,143.26,completed,1990,1988,2
+William Green Building,Columbus,steel,33,161.55,completed,1990,1986,4
+712 5th Avenue,New York City,steel,53,198.12,completed,1990,1988,2
+181 West Madison,Chicago,composite,50,207.27,completed,1990,1988,2
+Chase Tower,Indianapolis,steel,49,213.67,completed,1990,1987,3
+Seattle Municipal Tower,Seattle,steel,57,220.07,completed,1990,1987,3
+311 South Wacker Drive,Chicago,concrete,65,292.92,completed,1990,1988,2
+Two Prudential Plaza,Chicago,concrete,64,303.28,completed,1990,1988,2
+U.S. Bank Tower,Los Angeles,steel,73,310.29,completed,1990,1987,3
+Landmark on the Lake,Milwaukee,concrete,28,75.59,completed,1991,1989,2
+Wells Fargo Tower,Roanoke,concrete,21,97.54,completed,1991,1990,1
+Gold Coast Galleria,Chicago,concrete,32,100.89,completed,1991,1989,2
+Plaza Towers,Grand Rapids,concrete,34,105.16,completed,1991,1988,3
+One Utah Center,Salt Lake City,steel,24,106.68,completed,1991,1990,1
+Franklin County Courthouse,Columbus,steel,27,141.4,completed,1991,1989,2
+AT&T Tower,Minneapolis,steel,34,142.34,completed,1991,1989,2
+450 Lexington Avenue,New York City,steel,38,173.13,completed,1991,1988,3
+777 Tower,Los Angeles,steel,53,221,completed,1991,1988,3
+Gas Company Tower,Los Angeles,steel,52,228.3,completed,1991,1988,3
+Carnegie Hall Tower,New York City,concrete,60,230.74,completed,1991,1988,3
+Key Tower,Cleveland,composite,57,288.65,completed,1991,1988,3
+Ellison Building,Boston,composite,24,104.2,completed,1992,1989,3
+100 East Pratt Street,Baltimore,steel,28,127.55,completed,1992,1991,1
+120 North LaSalle,Chicago,concrete,39,152.71,completed,1992,1989,3
+RBC Plaza,Minneapolis,concrete,40,164.14,completed,1992,1989,3
+400 West Market,Louisville,composite,35,167.34,completed,1992,1991,1
+Regions Building,Tampa,steel,42,176.48,completed,1992,1990,2
+The Millenium Hilton,New York City,concrete,58,179.23,completed,1992,1988,4
+Heller International Tower,Chicago,concrete,45,182.86,completed,1992,1990,2
+United Building,Chicago,composite,49,203.61,completed,1992,1990,2
+Chicago Title & Trust Center,Chicago,composite,50,230.48,completed,1992,1990,2
+Capella Tower,Minneapolis,composite,56,236.53,completed,1992,1989,3
+SunTrust Plaza,Atlanta,concrete,60,264.25,completed,1992,1989,3
+Bank of America Corporate Center,Charlotte,concrete,60,265.48,completed,1992,1989,3
+Bank of America Plaza,Atlanta,composite,55,311.8,completed,1992,1991,1
+Luxor Pyramid,Las Vegas,steel,30,106.7,completed,1993,1992,1
+Hillsborough County Center,Tampa,steel,28,111.25,completed,1993,1991,2
+Treasure Island Hotel & Casino,Las Vegas,concrete,36,112.2,completed,1993,1992,1
+Four Seasons Hotel,New York City,concrete,52,207.88,completed,1993,1990,3
+Phoenix City Hall,Phoenix,concrete,20,112.2,completed,1994,1992,2
+West End Towers,New York City,concrete,39,123.14,completed,1995,1994,1
+100 North Main Street,Winston-Salem,steel,34,140.21,completed,1995,1994,1
+Mutual of America Building,New York City,steel,34,145.09,completed,1995,1994,1
+Circus Circus West Tower,Las Vegas,concrete,35,102.7,completed,1996,1995,1
+1 Times Square,New York City,steel,25,110.64,completed,1996,1995,1
+First Hawaiian Center,Honolulu,steel,30,130.75,completed,1996,1993,3
+Feinberg Pavillion,Chicago,composite,17,90.53,completed,1997,1994,3
+Galter Pavilion,Chicago,composite,22,122.68,completed,1997,1994,3
+Beneficial Financial Group Tower,Salt Lake City,steel,20,102,completed,1998,1996,2
+2 Columbus,New York City,concrete,41,128.02,completed,1998,1996,2
+Wells Fargo Center,Salt Lake City,steel,26,128.63,completed,1998,1996,2
+Archstone Midtown West,New York City,concrete,40,132.59,completed,1998,1997,1
+LVMH Tower,New York City,steel,25,100,completed,1999,1995,4
+150 California Street,San Francisco,steel,23,100.58,completed,1999,1998,1
+The Yacht Club at Portofino,Miami Beach,concrete,33,103.9,completed,1999,1997,2
+Hawaiki Tower,Honolulu,concrete,45,121.92,completed,1999,1993,6
+Chrysler Building East,New York City,steel,32,131.74,completed,1999,1998,1
+One Columbus Place Tower I,New York City,concrete,49,152.4,completed,1999,1997,2
+One Columbus Place Tower II,New York City,concrete,49,152.4,completed,1999,1997,2
+One Superior Place,Chicago,concrete,52,152.91,completed,1999,1998,1
+The Belvedere,New York City,concrete,48,168.86,completed,1999,1997,2
+4 Times Square,New York City,steel,48,246.54,completed,1999,1996,3
+River View I,Chicago,concrete,27,97.99,completed,2000,1998,2
+Southampton Apartments,Jersey City,concrete,36,105.5,completed,2000,1999,1
+Sofitel New York Hotel,New York City,concrete,30,108.63,completed,2000,1997,3
+Bank of America Tower,Phoenix,concrete/steel,23,109.7,completed,2000,1998,2
+Chestnut Tower,Chicago,concrete,36,109.7,completed,2000,1999,1
+Fox Tower,Portland,steel,27,113.39,completed,2000,1997,3
+Planet Hollywood Las Vegas,Las Vegas,steel,39,118.87,completed,2000,1998,2
+Three Wells Fargo Center,Charlotte,concrete,32,137.16,completed,2000,1997,3
+U.S. Bancorp Center,Minneapolis,steel,32,142.5,completed,2000,1998,2
+Park Avenue Condominiums,Atlanta,concrete,44,148.14,completed,2000,1998,2
+The Bristol,Chicago,concrete,42,148.74,completed,2000,1998,2
+Ameriprise Financial Center,Minneapolis,concrete/steel,31,151.64,completed,2000,1997,3
+Park Tower,Chicago,concrete,68,257.35,completed,2000,1998,2
+Ameristar East Chicago Hotel,East Chicago,concrete,15,54.6,completed,2001,2000,1
+Elliott Grand Hyatt Seattle,Seattle,concrete,30,87,completed,2001,1999,2
+Gonda Building,Rochester,steel,21,93,completed,2001,1998,3
+Metropolitan Tower,Seattle,steel,31,93,completed,2001,1999,2
+Kinzie Park Tower,Chicago,concrete,34,111.3,completed,2001,1999,2
+Capitol at Chelsea,New York City,concrete,37,121.3,completed,2001,2000,1
+Murano at Portofino,Miami Beach,concrete,37,122.5,completed,2001,2000,1
+Fifty South Sixth,Minneapolis,steel,30,123.09,completed,2001,1999,2
+Palms Casino Hotel,Las Vegas,concrete,42,128.93,completed,2001,1999,2
+Millennium Point,New York City,concrete,38,136.86,completed,2001,1999,2
+The Sterling,Chicago,concrete,49,142.04,completed,2001,2000,1
+Marymount University Dormitory,New York City,concrete,48,144.17,completed,2001,2000,1
+Turnberry Place I,Las Vegas,concrete,38,145.24,completed,2001,1999,2
+Three Tequesta Point,Miami,concrete,46,146.3,completed,2001,1999,2
+Target Plaza South,Minneapolis,composite,33,149.89,completed,2001,1999,2
+The Metropolis,New York City,concrete,48,160.94,completed,2001,2000,1
+Reuters Building,New York City,steel,30,169.2,completed,2001,1998,3
+Lehman Building,New York City,steel,38,175.26,completed,2001,1999,2
+River East Center,Chicago,concrete,58,196.29,completed,2001,1999,2
+UBS Tower,Chicago,composite,50,198.58,completed,2001,1999,2
+383 Madison Avenue,New York City,steel,47,230.25,completed,2001,1999,2
+Trump World Tower,New York City,concrete,72,262.44,completed,2001,1999,2
+Museum Park Tower I,Chicago,concrete,20,85.34,completed,2002,2000,2
+Erie on the Park,Chicago,steel,24,89.1,completed,2002,2001,1
+The Avalon Riverview,New York City,concrete,32,97.84,completed,2002,2001,1
+300 West 6th Street,Austin,concrete,23,99.97,completed,2002,2000,2
+55 Second Street,San Francisco,steel,25,100.58,completed,2002,2000,2
+Sofitel Chicago Water Tower,Chicago,concrete,33,105.79,completed,2002,2000,2
+Bank of America Plaza,Fort Lauderdale,concrete,23,124.36,completed,2002,2000,2
+The Plaza in Clayton Residential Tower,Clayton,concrete,30,124.5,completed,2002,2000,2
+"Continuum on South Beach, North Tower",Miami Beach,concrete,40,125.5,completed,2002,2000,2
+2 East Erie,Chicago,concrete,39,126.49,completed,2002,2000,2
+JPMorgan Chase Building,San Francisco,steel,31,128,completed,2002,2000,2
+Carl B. Stokes Federal Courthouse,Cleveland,steel,23,131.07,completed,2002,1999,3
+The Westin Diplomat Resort,Hollywood,concrete,39,135.33,completed,2002,1998,4
+Riverbend Condominiums,Chicago,concrete,38,137.39,completed,2002,2000,2
+"Continuum on South Beach, South Tower",Miami Beach,concrete,44,143.5,completed,2002,2000,2
+191 North Wacker Drive,Chicago,composite,37,157.41,completed,2002,2000,2
+Westin New York at Times Square,New York City,concrete,45,162.16,completed,2002,2000,2
+Park Millennium,Chicago,concrete,57,165.88,completed,2002,2000,2
+111 Huntington Avenue,Boston,steel,36,172,completed,2002,1999,3
+5 Times Square,New York City,steel,40,175.26,completed,2002,2000,2
+1500 Louisiana Street,Houston,steel,40,182.88,completed,2002,1999,3
+One First National Center,Omaha,composite,45,193.25,completed,2002,1999,3
+Hearst Tower,Charlotte,concrete/steel,47,200.81,completed,2002,1999,3
+Vue20 Condominium,Chicago,concrete,19,60.9,completed,2003,2001,2
+Optima Views,Evanston,concrete,28,80.77,completed,2003,2002,1
+Loews Minneapolis Hotel,Minneapolis,concrete/steel,22,82.45,completed,2003,2000,3
+Omni Hotel CNN Center Expansion,Atlanta,concrete,28,94.28,completed,2003,2002,1
+530 North Lake Shore Drive,Chicago,concrete,29,99.87,completed,2003,2001,2
+Park Alexandria,Chicago,concrete,32,105.84,completed,2003,2002,1
+Post Toscana Apartments,New York City,concrete,31,107.3,completed,2003,2002,1
+5 Houston Center,Houston,concrete,27,114.5,completed,2003,2000,3
+The Grand Beekman,New York City,concrete,32,115.21,completed,2003,2001,2
+The Aurora,New York City,concrete,30,118,completed,2003,2002,1
+The Pearson,Chicago,concrete,35,120.47,completed,2003,2001,2
+The Mercer,Houston,concrete,30,122.07,completed,2003,2002,1
+Ocean Three Condominiums,Sunny Isles Beach,concrete,37,123.4,completed,2003,2002,1
+Murano Grande at Portofino,Miami Beach,concrete,37,124.06,completed,2003,2001,2
+Skybridge,Chicago,concrete,39,128.17,completed,2003,2000,3
+One Sutton Place North,New York City,concrete,41,128.17,completed,2003,2000,3
+Marbella Apartments,Jersey City,concrete,40,130.2,completed,2003,2001,2
+Ivy Tower,New York City,concrete,41,136.25,completed,2003,2001,2
+ABN AMRO Plaza,Chicago,composite,29,138.13,completed,2003,2001,2
+717 Texas Avenue,Houston,concrete,34,138.2,completed,2003,2001,2
+The Residences at Grand Plaza,Chicago,concrete,39,139.6,completed,2003,2000,3
+THEHotel,Las Vegas,concrete,43,147.93,completed,2003,2002,1
+Constellation Place,Los Angeles,steel,35,149.5,completed,2003,2001,2
+State Street Financial Center,Boston,steel,36,153.32,completed,2003,2000,3
+Fourth and Madison Building,Seattle,composite,40,156.06,completed,2003,2000,3
+RRI Energy Plaza,Houston,concrete,36,158,completed,2003,2001,2
+220 Riverside Boulevard At Trump Place,New York City,concrete,49,165.26,completed,2003,2001,2
+The Biltmore,New York City,concrete,51,167.64,completed,2003,2001,2
+The Fordham,Chicago,concrete,52,174.81,completed,2003,2001,2
+300 Madison Avenue,New York City,steel,38,175.26,completed,2003,2001,2
+Citadel Center,Chicago,steel,39,176.84,completed,2003,2000,3
+Millennium Centre,Chicago,concrete,58,185.91,completed,2003,2001,2
+425 5th Avenue,New York City,concrete,55,188.34,completed,2003,2001,2
+Grand Plaza Apartments,Chicago,concrete,57,195.38,completed,2003,2000,3
+Random House Tower,New York City,steel,52,208.49,completed,2003,2000,3
+Four Seasons Hotel & Tower,Miami,concrete,64,240.41,completed,2003,2000,3
+Two River Place,Chicago,concrete,17,66.5,completed,2004,2002,2
+Grant Park Tower,Minneapolis,concrete,27,89.61,completed,2004,2002,2
+840 North Lake Shore Drive,Chicago,concrete,27,100.18,completed,2004,2001,3
+Montebello,Houston,concrete,30,100.58,completed,2004,2002,2
+Broadway Plaza,Rochester,concrete,29,104.24,completed,2004,2002,2
+The Metropolitan,New York City,concrete,30,106.7,completed,2004,2002,2
+Trump International Beach Resort,Sunny Isles Beach,concrete,32,107,completed,2004,2003,1
+One City Place,White Plains,concrete,35,107.9,completed,2004,2002,2
+1111 South Wabash,Chicago,concrete,34,111.86,completed,2004,2001,3
+Omni San Diego Hotel and The Metropolitan,San Diego,concrete,34,114.3,completed,2004,2000,4
+Skyline on Brickell,Miami,concrete,34,114.66,completed,2004,2002,2
+Austin Hilton Covention Center Hotel,Austin,concrete,31,114.91,completed,2004,2001,3
+The Setai Hotel and Residences,Miami Beach,concrete,38,117.5,completed,2004,2003,1
+United States Federal Courthouse,Seattle,steel,21,118.87,completed,2004,2001,3
+Bellagio Spa Tower,Las Vegas,concrete,33,119.5,completed,2004,2003,1
+River View II,Chicago,concrete,32,121.62,completed,2004,2001,3
+The Club at Brickell Bay,Miami,concrete,42,125.3,completed,2004,2002,2
+Archstone Chelsea,New York City,concrete,36,128.62,completed,2004,2002,2
+ICON at South Beach,Miami Beach,concrete,42,128.93,completed,2004,2003,1
+VUE at Brickell,Miami,concrete,36,129,completed,2004,2002,2
+Buckhead Grand,Atlanta,concrete,38,137.47,completed,2004,2002,2
+Las Olas River House I,Fort Lauderdale,concrete,42,137.77,completed,2004,2001,3
+480 Washington Boulevard,Jersey City,steel,32,140.5,completed,2004,2001,3
+The Marc,New York City,concrete,42,141.56,completed,2004,2002,2
+Park Avenue Place,New York City,concrete,38,143.87,completed,2004,2003,1
+Turnberry Place III,Las Vegas,concrete,38,145.24,completed,2004,2002,2
+Paramount at Buckhead,Atlanta,concrete,40,145.7,completed,2004,2002,2
+Espirito Santo Plaza,Miami,concrete,36,148.4,completed,2004,2000,4
+33 Arch Street,Boston,steel,33,149.05,completed,2004,2001,3
+Akoya Condominiums,Miami Beach,concrete,47,149.96,completed,2004,2002,2
+The St. James,Philadelphia,concrete,45,151.84,completed,2004,2001,3
+Liberty Plaza,New York City,concrete,45,155.39,completed,2004,2002,2
+Frost Bank Tower,Austin,concrete,33,157.2,completed,2004,2001,3
+Jade at Brickell Bay,Miami,concrete,49,160.94,completed,2004,2002,2
+The Pinnacle,Chicago,concrete,48,163.07,completed,2004,2002,2
+Acqualina Ocean Residences,Sunny Isles Beach,concrete,51,167.64,completed,2004,2001,3
+55 East Erie,Chicago,concrete,56,197.15,completed,2004,2001,3
+Times Square Tower,New York City,steel,47,221.29,completed,2004,2001,3
+Time Warner Center North Tower,New York City,concrete/steel,55,228.32,completed,2004,2000,4
+Time Warner Center South Tower,New York City,concrete/steel,55,228.32,completed,2004,2000,4
+30 Hudson Street,Jersey City,steel,42,238.05,completed,2004,2001,3
+Bloomberg Tower,New York City,concrete/steel,54,245.62,completed,2004,2000,4
+Tribeca Green,New York City,concrete,24,70.1,completed,2005,2004,1
+Museum Pointe,Chicago,concrete,26,88.1,completed,2005,2003,2
+Michigan Avenue Tower I,Chicago,concrete,29,95.76,completed,2005,2003,2
+The Lancaster,Chicago,concrete,30,98.81,completed,2005,2003,2
+Twelve Atlantic Station,Atlanta,concrete,26,102.41,completed,2005,2004,1
+Trump Tower at City Center,White Plains,concrete,35,107.9,completed,2005,2003,2
+Kilbourn Tower,Milwaukee,concrete,33,115.75,completed,2005,2003,2
+The Milan Condominium,New York City,concrete,31,116.26,completed,2005,2003,2
+Las Olas Grand,Fort Lauderdale,concrete,38,121,completed,2005,2002,3
+Helena,New York City,concrete,37,122.22,completed,2005,2003,2
+Carbonell Condominium,Miami,concrete,39,124,completed,2005,2003,2
+First Allied Plaza,San Diego,steel,23,125.6,completed,2005,2003,2
+One Broadway on Brickell,Miami,concrete,36,126,completed,2005,2003,2
+Blue on the Bay,Miami,concrete,36,129.54,completed,2005,2003,2
+Fontainebleau Tower Suites,Miami Beach,concrete,36,132.25,completed,2005,2002,3
+Cira Centre,Philadelphia,steel,29,133.1,completed,2005,2004,1
+The Beach Club Tower 1,Hallandale Beach,concrete,43,134.11,completed,2005,2003,2
+One Miami West Tower,Miami,concrete,45,136.86,completed,2005,2003,2
+The Shoreham,Chicago,concrete,47,137.16,completed,2005,2003,2
+Spire,Atlanta,concrete,28,138,completed,2005,2004,1
+400 North LaSalle,Chicago,concrete,45,138.43,completed,2005,2003,2
+The Pinnacle Marina Tower,San Diego,concrete,36,138.68,completed,2005,2003,2
+One Miami East Tower,Miami,concrete,44,140.21,completed,2005,2003,2
+12 Metrotech Center,New York City,steel,32,144.17,completed,2005,2001,4
+Brickell on the River North Tower,Miami,concrete,42,146.92,completed,2005,2003,2
+St. Regis San Francisco,San Francisco,concrete,42,147.53,completed,2005,2001,4
+Hyatt Regency Denver at the Colorado Convention Center,Denver,concrete,37,149,completed,2005,2003,2
+2 Gold Street,New York City,concrete,51,165.5,completed,2005,2003,2
+Trump Palace,Sunny Isles Beach,concrete,43,167.95,completed,2005,2002,3
+One South Dearborn,Chicago,composite,39,173.94,completed,2005,2003,2
+Wynn Las Vegas,Las Vegas,concrete,45,187.15,completed,2005,2002,3
+The Heritage at Millennium Park,Chicago,concrete,57,192.38,completed,2005,2002,3
+Hyatt Center,Chicago,composite,48,207.1,completed,2005,2002,3
+111 South Wacker,Chicago,composite,51,207.64,completed,2005,2003,2
+River Place on the Park,Chicago,concrete,21,84.1,completed,2006,2005,1
+Conrad Indianapolis & Residences,Indianapolis,concrete,23,87.48,completed,2006,2004,2
+East Coast Tower I,New York City,concrete,31,91.14,completed,2006,2004,2
+Sayan Condominium,Sunny Isles Beach,concrete,30,97.25,completed,2006,2004,2
+Grovenor House,Miami,concrete,33,103.9,completed,2006,2004,2
+ParkShore Plaza,St. Petersburg (FL),concrete,29,108.2,completed,2006,2004,2
+Solaire at the Plaza,Orlando,concrete,30,108.8,completed,2006,2004,2
+Left Bank at K Station,Chicago,concrete,36,111.41,completed,2006,2005,1
+NeoVertika,Miami,concrete,35,112.5,completed,2006,2004,2
+Ocean Palms Phase I,Hollywood,concrete,38,121.92,completed,2006,2003,3
+Hilton Grand Vacations Club II,Las Vegas,concrete,38,123.4,completed,2006,2004,2
+Museum Tower,Chicago,concrete,38,124.64,completed,2006,2004,2
+505 5th Avenue,New York City,concrete,26,125.27,completed,2006,2004,2
+Ko'olani,Honolulu,concrete,47,126.8,completed,2006,2004,2
+Hokua at 1288 Ala Moana,Honolulu,concrete,40,127.41,completed,2006,2003,3
+Panorama Tower I,Las Vegas,concrete,32,128,completed,2006,2004,2
+Sky55,Chicago,concrete,40,129.41,completed,2006,2004,2
+One Carnegie Hill,New York City,concrete,41,130.5,completed,2006,2004,2
+Residence Inn New York Manhattan/Times Square,New York City,concrete,43,133.15,completed,2006,2004,2
+The Peninsula,Jacksonville,concrete,36,133.2,completed,2006,2004,2
+W Dallas Victory Hotel & Residences,Dallas,concrete,32,133.8,completed,2006,2004,2
+Hartford 21,Hartford,steel,36,134.12,completed,2006,2004,2
+La Perla Ocean Residences,Sunny Isles Beach,concrete,42,136.25,completed,2006,2004,2
+Tower 31,New York City,concrete,41,137.16,completed,2006,2004,2
+Palms Fantasy Tower,Las Vegas,concrete,40,139.6,completed,2006,2004,2
+325 5th Avenue,New York City,concrete,42,143.56,completed,2006,2004,2
+The Signature at MGM Grand Tower I,Las Vegas,concrete,38,144.78,completed,2006,2004,2
+The Signature at MGM Grand Tower II,Las Vegas,concrete,38,144.78,completed,2006,2005,1
+Turnberry Place IV,Las Vegas,concrete,38,145.24,completed,2006,2004,2
+The Beach Club Tower 2,Hallandale Beach,concrete,50,153.93,completed,2006,2004,2
+Hearst Tower,New York City,steel,46,181.97,completed,2006,2003,3
+Russell Investments Center,Seattle,steel,42,182.18,completed,2006,2004,2
+The Orion,New York City,concrete,60,184.1,completed,2006,2004,2
+1180 Peachtree,Atlanta,concrete,41,200.16,completed,2006,2003,3
+7 World Trade Center,New York City,concrete/steel,49,226.5,completed,2006,2002,4
+Spertus Institute of Jewish Studies,Chicago,steel,10,53.35,completed,2007,2006,1
+Blue Residential Tower,New York City,concrete,16,55.17,completed,2007,2004,3
+San Francisco Federal Building,San Francisco,concrete,18,71.32,completed,2007,2002,5
+J.W. Marriott Grand Rapids,Grand Rapids,composite,25,78.1,completed,2007,2005,2
+Museum Park Place 1,Chicago,concrete,23,78.9,completed,2007,2005,2
+Sherman Plaza,Evanston,concrete,25,84.23,completed,2007,2004,3
+Four Seasons Hotel St. Louis,St. Louis,concrete,20,88,completed,2007,2005,2
+Chelsea Arts Tower,New York City,concrete,20,89,completed,2007,2005,2
+The Ascent at Roebling`s Bridge,Covington,concrete/steel,21,89.36,completed,2007,2006,1
+Beacon Tower,New York City,concrete/steel,23,90.52,completed,2007,2004,3
+200 Chambers Street,New York City,concrete,29,91.1,completed,2007,2005,2
+Prentice Women's Hospital,Chicago,composite,18,96.32,completed,2007,2003,4
+TradeMark,Charlotte,concrete,28,99.06,completed,2007,2005,2
+The John Ross Tower,Portland,concrete,32,99.06,completed,2007,2005,2
+Cosmopolitan,Seattle,concrete,33,100.59,completed,2007,2005,2
+Park East Tower,St. Louis,concrete,26,100.66,completed,2007,2005,2
+Newport Lofts,Las Vegas,steel,23,101.8,completed,2007,2005,2
+The Veneto,New York City,concrete,32,102.1,completed,2007,2006,1
+High Point II,Fort Myers,concrete,33,103.63,completed,2007,2005,2
+High Point I,Fort Myers,concrete,33,103.94,completed,2007,2004,3
+Nine O Nine Kapiolani,Honolulu,concrete,33,105,completed,2007,2005,2
+10 West End,New York City,concrete,31,106.68,completed,2007,2005,2
+Avenue Southeast First Tower,Miami,concrete,35,111.2,completed,2007,2005,2
+Chelsea Landmark,New York City,concrete,36,112.17,completed,2007,2005,2
+The Beach Club,Galveston,concrete,27,116.41,completed,2007,2005,2
+The Trade Winds,Galveston,concrete,27,116.41,completed,2007,2005,2
+Avalon Riverview North,New York City,concrete,39,117.35,completed,2007,2006,1
+Ariel East,New York City,concrete,38,120.7,completed,2007,2006,1
+Eddie Bauer at Lincoln Square,Bellevue,composite,28,125.58,completed,2007,2000,7
+50 Columbus,Jersey City,concrete,36,125.9,completed,2007,2005,2
+SkyPoint,Tampa,concrete,32,126.2,completed,2007,2005,2
+Brickell on the River South Tower,Miami,concrete,42,128.93,completed,2007,2005,2
+1800 Club,Miami,concrete,40,129.05,completed,2007,2004,3
+Avenue,Charlotte,concrete,36,129.54,completed,2007,2005,2
+The Vue at Lake Eola,Orlando,concrete,35,129.85,completed,2007,2005,2
+500 Brickell East Tower,Miami,concrete,42,129.85,completed,2007,2005,2
+500 Brickell West Tower,Miami,concrete,42,129.85,completed,2007,2005,2
+Turnberry Ocean Colony North Tower,Sunny Isles Beach,concrete,37,131,completed,2007,2003,4
+Memorial Hermann Medical Plaza,Houston,concrete,28,131.04,completed,2007,2004,3
+Borgata Hotel & Casino,Atlantic City,concrete,42,131.45,completed,2007,2000,7
+Loft 2,Miami,concrete,35,131.98,completed,2007,2005,2
+Trump Plaza,New Rochelle,concrete,40,132.59,completed,2007,2005,2
+Met 1,Miami,concrete,40,134.11,completed,2007,2004,3
+The Beach Club Tower 3,Hallandale Beach,concrete,43,134.11,completed,2007,2004,3
+University Club Tower,Milwaukee,concrete,36,136,completed,2007,2004,3
+Turnberry Towers - East Tower,Las Vegas,concrete,45,138.08,completed,2007,2005,2
+Kingsbury Plaza,Chicago,concrete,47,138.84,completed,2007,2005,2
+Allure Las Vegas Tower I,Las Vegas,concrete,41,141.96,completed,2007,2005,2
+The Carlyle,Minneapolis,concrete,41,142.85,completed,2007,2005,2
+The Link,New York City,concrete,43,143.56,completed,2007,2005,2
+The Signature at MGM Grand Tower III,Las Vegas,concrete,38,144.78,completed,2007,2005,2
+Latitude on the River,Miami,concrete,44,145.19,completed,2007,2004,3
+The Regatta,Chicago,concrete,45,146.45,completed,2007,2004,3
+Asia,Miami,concrete,36,147.22,completed,2007,2005,2
+Twelve Centennial Park Tower I,Atlanta,concrete,39,149.66,completed,2007,2005,2
+Avenue Brickell Tower,Miami,concrete,47,150.88,completed,2007,2005,2
+Sky Las Vegas,Las Vegas,concrete,45,152.4,completed,2007,2005,2
+The Westin Virginia Beach Town Center & Residences,Virginia Beach,concrete,38,154.84,completed,2007,2005,2
+The Streeter,Chicago,concrete,50,156.67,completed,2007,2005,2
+Atelier,New York City,concrete,46,158.8,completed,2007,2004,3
+Plaza on Brickell Tower II,Miami,concrete,48,160,completed,2007,2005,2
+Opera Tower,Miami,concrete,56,165.5,completed,2007,2005,2
+50 Biscayne,Miami,concrete,55,168.86,completed,2007,2005,2
+Ten Museum Park,Miami,concrete,50,178.31,completed,2007,2004,3
+Plaza on Brickell Tower I,Miami,concrete,56,185.93,completed,2007,2005,2
+The Epic,New York City,concrete,58,187.41,completed,2007,2005,2
+Marina Blue,Miami,concrete,57,187.45,completed,2007,2004,3
+The Palazzo,Las Vegas,composite,53,195.68,completed,2007,2004,3
+1095 Avenue of the Americas,New York City,steel,43,196.44,completed,2007,2006,1
+340 on the Park,Chicago,concrete,64,204.9,completed,2007,2005,2
+Barclay Tower,New York City,concrete,56,205.06,completed,2007,2005,2
+RSA Battle House Tower,Mobile,concrete/steel,35,227.08,completed,2007,2003,4
+New York Times Tower,New York City,steel,52,318.77,completed,2007,2004,3
+Dwight Building,Chicago,concrete,16,66.8,completed,2008,2007,1
+Hilton Garden Inn New York/Chelsea,New York City,concrete,23,72.85,completed,2008,2005,3
+The Caledonia,New York City,concrete,24,76.2,completed,2008,2006,2
+The Carillon Hotel & Spa South Tower,Miami Beach,concrete,22,78,completed,2008,2004,4
+MEi Miami Beach Ocean Front,Miami Beach,concrete,22,79,completed,2008,2006,2
+Marquee Michigan Avenue,Chicago,concrete,26,89.1,completed,2008,2006,2
+One Northside Piers,New York City,concrete,29,90.53,completed,2008,2006,2
+River North Marriott Suites,Chicago,concrete,27,90.68,completed,2008,2006,2
+Hotel Ivy + Residences,Minneapolis,concrete,25,91.92,completed,2008,2006,2
+The Riverhouse,New York City,concrete,31,92.05,completed,2008,2005,3
+550 St. Clair,Chicago,concrete,26,95.1,completed,2008,2006,2
+The Ardea,Portland,concrete,30,99.06,completed,2008,2006,2
+Windsor on the Lake,Austin,concrete,31,103.33,completed,2008,2007,1
+Oasis II,Fort Myers,concrete,32,103.58,completed,2008,2006,2
+Ariel West,New York City,concrete,31,103.63,completed,2008,2006,2
+Oasis I,Fort Myers,concrete,32,103.63,completed,2008,2006,2
+414 Water Street,Baltimore,concrete,33,104.75,completed,2008,2006,2
+The Avery,New York City,concrete,30,104.85,completed,2008,2005,3
+29 Park Madison,New York City,concrete,34,105.2,completed,2008,2006,2
+4 Midtown,Miami,concrete,33,106.7,completed,2008,2005,3
+The Infinity I,San Francisco,concrete,35,106.7,completed,2008,2005,3
+Sheraton Phoenix Downtown,Phoenix,concrete/steel,32,109.7,completed,2008,2006,2
+Echelon at K Station,Chicago,concrete,36,110.7,completed,2008,2006,2
+Grand Waikikian,Honolulu,concrete,38,112.17,completed,2008,2006,2
+1720 South Michigan,Chicago,concrete,32,112.22,completed,2008,2006,2
+The Watermark Waikiki,Honolulu,concrete,37,113.7,completed,2008,2005,3
+Capitol Place,Honolulu,concrete,39,113.7,completed,2008,2006,2
+1400 Museum Park,Chicago,concrete,34,114.3,completed,2008,2006,2
+Avalon on the Sound East,New Rochelle,concrete,39,114.3,completed,2008,2006,2
+55 West on the Esplanade,Orlando,concrete,32,114.9,completed,2008,2005,3
+505 West 37th Street West Tower,New York City,concrete,34,115,completed,2008,2007,1
+Sapphire Tower,San Diego,concrete,32,115.8,completed,2008,2006,2
+44 Monroe,Phoenix,concrete,34,115.82,completed,2008,2006,2
+Ocean Tower,South Padre Island,concrete,31,116.13,demolished,2008,2006,2
+Hilton San Diego Bayfront,San Diego,concrete,32,117.3,completed,2008,2006,2
+The Fairbanks at Cityfront Plaza,Chicago,composite,31,117.91,completed,2008,2000,8
+The Chandler,Chicago,concrete,36,118.47,completed,2008,2005,3
+The Carillon Hotel & Spa North Tower,Miami Beach,concrete,37,121,completed,2008,2006,2
+Oro Condominium,New York City,concrete,40,121.92,completed,2008,2006,2
+US Bank Tower,Sacramento,steel,25,122.6,completed,2008,2006,2
+River House Condominiums,Grand Rapids,concrete,34,123.8,completed,2008,2006,2
+MoMo,Chicago,composite,32,125.14,completed,2008,2006,2
+Axis on Brickell North Tower,Miami,concrete,40,127.4,completed,2008,2005,3
+Axis on Brickell South Tower,Miami,concrete,40,127.4,completed,2008,2005,3
+Keola Lai,Honolulu,concrete,42,127.7,completed,2008,2005,3
+Panorama Tower II,Las Vegas,concrete,32,128,completed,2008,2005,3
+Moana Pacific East Tower,Honolulu,concrete,46,128.53,completed,2008,2004,4
+Moana Pacific West Tower,Honolulu,concrete,46,128.53,completed,2008,2005,3
+Mortimer B. Zuckerman Research Center,New York City,steel,25,129.24,completed,2008,2002,6
+Grand Hyatt San Antonio,San Antonio,concrete,34,129.31,completed,2008,2006,2
+The Rushmore,New York City,concrete,41,129.54,completed,2008,2006,2
+101 Warren Street,New York City,concrete,32,130.46,completed,2008,2006,2
+Turnberry Ocean Colony South Tower,Sunny Isles Beach,concrete,37,131,completed,2008,2006,2
+Bellevue Towers One,Bellevue,concrete,42,131.07,completed,2008,2006,2
+Fifteen Twenty-One Second Avenue,Seattle,concrete,38,134.11,completed,2008,2007,1
+Bellevue Towers Two,Bellevue,concrete,43,137.16,completed,2008,2006,2
+600 North Lake Shore Drive - North Tower,Chicago,concrete,41,138.08,completed,2008,2005,3
+Turnberry Towers - West Tower,Las Vegas,concrete,45,138.08,completed,2008,2005,3
+The Water Club at Borgata,Atlantic City,concrete,39,139.29,completed,2008,2006,2
+600 Fairbanks Court,Chicago,concrete,41,139.5,completed,2008,2006,2
+Trump Towers I,Sunny Isles Beach,concrete,45,140.5,completed,2008,2005,3
+Trump Towers II,Sunny Isles Beach,concrete,45,140.5,completed,2008,2005,3
+Trump Towers III,Sunny Isles Beach,concrete,45,140.5,completed,2008,2005,3
+Trump Taj Mahal - Chairman Tower,Atlantic City,concrete,41,143.21,completed,2008,2006,2
+The Murano,Philadelphia,concrete,42,144.78,completed,2008,2006,2
+Electra,San Diego,concrete/steel,43,144.78,completed,2008,2004,4
+"The Residences at the Ritz Carlton, Westchester - South Tower",White Plains,concrete,44,147.52,completed,2008,2005,3
+555 Mission Street,San Francisco,steel,33,148.44,completed,2008,2007,1
+Chelsea Stratus,New York City,concrete,40,149.66,completed,2008,2006,2
+50 East Chestnut Street,Chicago,concrete,40,150.73,completed,2008,2005,3
+The Platinum,New York City,concrete,43,151.18,completed,2008,2006,2
+Parkview West,Chicago,concrete,49,151.64,completed,2008,2006,2
+The Tides,Chicago,concrete,51,152.35,completed,2008,2006,2
+Viewpoint,Atlanta,concrete,36,152.7,completed,2008,2006,2
+Wind,Miami,concrete,41,152.71,completed,2008,2005,3
+The Ivy,Miami,concrete,45,156.16,completed,2008,2005,3
+The Columbian,Chicago,concrete,47,157.66,completed,2008,2005,3
+Palms Place,Las Vegas,concrete,50,157.76,completed,2008,2006,2
+Harrah`s Waterfront Tower,Atlantic City,concrete,44,160.02,completed,2008,2006,2
+Trump Plaza Residences,Jersey City,concrete,55,162.16,completed,2008,2006,2
+RBC Plaza,Raleigh,concrete,32,163.98,completed,2008,2006,2
+"Vizcayne, North Tower",Miami,concrete,49,164,completed,2008,2005,3
+The Tower at 15 Central Park West,New York City,concrete,35,167.64,completed,2008,2005,3
+Trump Royale,Sunny Isles Beach,concrete,43,167.64,completed,2008,2005,3
+Quantum on the Bay South Tower,Miami,concrete,51,168.86,completed,2008,2005,3
+Jade on the Beach,Sunny Isles Beach,concrete,51,175,completed,2008,2004,4
+The Mansion on Peachtree,Atlanta,concrete,42,176.79,completed,2008,2006,2
+360 Condominiums,Austin,concrete,45,177.1,completed,2008,2006,2
+Icon Brickell North Tower,Miami,concrete,58,178.62,completed,2008,2006,2
+Sky House,New York City,concrete,54,179.33,completed,2008,2005,3
+One Rincon Hill South Tower,San Francisco,concrete,54,184.41,completed,2008,2006,2
+Trump International Hotel & Tower 1,Las Vegas,concrete,64,189.59,completed,2008,2005,3
+Infinity at Brickell,Miami,concrete,52,192,completed,2008,2005,3
+Encore,Las Vegas,concrete,52,192.33,completed,2008,2006,2
+900 Biscayne Bay,Miami,concrete,63,198,completed,2008,2005,3
+Sovereign,Atlanta,concrete,48,202.69,completed,2008,2006,2
+Comcast Center,Philadelphia,composite,57,296.73,completed,2008,2005,3
+Park Lafayette North Tower,Milwaukee,concrete,20,65.84,completed,2009,2007,2
+Park Lafayette South Tower,Milwaukee,concrete,20,65.84,completed,2009,2007,2
+Museum Park Tower II,Chicago,concrete,20,72.03,completed,2009,2007,2
+The BreakWater,Milwaukee,concrete,21,79.25,completed,2009,2007,2
+The Standard,New York City,composite,19,79.5,completed,2009,2005,4
+SouthShore Condominiums Tower 1,Newport,concrete,21,83.21,completed,2009,2007,2
+Blue Chip Casino Spa Blu Tower,Michigan City,concrete,23,85.22,completed,2009,2007,2
+The Olivian,Seattle,concrete,27,90.5,completed,2009,2006,3
+The Edge South Tower,New York City,concrete,30,90.83,completed,2009,2007,2
+SoNo West Tower,Chicago,concrete,27,93.2,completed,2009,2007,2
+Michigan Avenue Tower II,Chicago,concrete,28,94.67,completed,2009,2007,2
+theWit Hotel,Chicago,concrete,26,94.79,completed,2009,2007,2
+W Hoboken Hotel and Residential Condominiums,Hoboken,concrete,27,95.5,completed,2009,2005,4
+Two Northside Piers,New York City,concrete,30,100.28,completed,2009,2008,1
+Museum Park Place 2,Chicago,concrete,30,100.4,completed,2009,2007,2
+W Downtown Atlanta Hotel & Residences,Atlanta,concrete,28,100.9,completed,2009,2005,4
+Concerto Tower 1,Los Angeles,concrete,28,101.2,completed,2009,2007,2
+255 East 74th Street,New York City,concrete,30,103,completed,2009,2007,2
+Freeport-McMoRan Center,Phoenix,concrete/steel,26,104.14,completed,2009,2007,2
+Greektown Casino Hotel,Detroit,concrete,30,106.1,completed,2009,2006,3
+Legg Mason Tower,Baltimore,concrete,24,106.68,completed,2009,2008,1
+1600 Museum Park,Chicago,concrete,32,108.9,completed,2009,2007,2
+Ovation,St. Petersburg (FL),concrete,26,109.1,completed,2009,2007,2
+Escala,Seattle,concrete,30,109.7,completed,2009,2006,3
+West 8th,Seattle,steel,28,109.73,completed,2009,2007,2
+Trump International Hotel Waikiki Beach Walk,Honolulu,concrete,39,112.09,completed,2009,2006,3
+New United States Mission to the United Nations,New York City,concrete,26,112.16,completed,2009,2006,3
+Terminus 200,Atlanta,concrete,25,112.65,completed,2009,2007,2
+Astoria Tower,Chicago,concrete,30,113.88,completed,2009,2007,2
+One Lincoln Park,Denver,concrete,32,114,completed,2009,2006,3
+Signature Place,St. Petersburg (FL),concrete,36,116.1,completed,2009,2007,2
+WaterMarke Tower,Los Angeles,concrete,35,120.4,completed,2009,2006,3
+Bayside at the Embarcadero,San Diego,concrete,36,120.4,completed,2009,2006,3
+Two Alliance Center,Atlanta,concrete/steel,25,120.52,completed,2009,2007,2
+Bank of the West Tower,Sacramento,steel,25,120.7,completed,2009,2007,2
+10 Rittenhouse Square,Philadelphia,concrete,33,120.7,completed,2009,2007,2
+OHM,New York City,concrete,34,121.18,completed,2009,2008,1
+2727 Kirby,Houston,concrete,30,123.45,completed,2009,2006,3
+Ashton,Austin,concrete,36,125.5,completed,2009,2006,3
+The Infinity II,San Francisco,concrete,41,128.02,completed,2009,2005,4
+Vantage Pointe Condominium,San Diego,concrete,41,128.02,completed,2009,2006,3
+Toren,New York City,steel,37,130.25,completed,2009,2007,2
+Spring,Austin,concrete,43,132.29,completed,2009,2007,2
+Crystal Point,Jersey City,concrete,42,132.9,completed,2009,2007,2
+Trump Hollywood,Hollywood,concrete,40,135.03,completed,2009,2007,2
+Omni Fort Worth Hotel,Fort Worth,concrete,33,136.25,completed,2009,2006,3
+Olive 8,Seattle,concrete,39,138.69,completed,2009,2006,3
+Element,Tampa,concrete,34,140.21,completed,2009,2007,2
+3630 Peachtree Road,Atlanta,concrete,40,142.95,completed,2009,2007,2
+Spire,Denver,concrete,41,147.22,completed,2009,2007,2
+Panorama Tower III,Las Vegas,concrete,42,147.32,completed,2009,2007,2
+"The Residences at the Ritz Carlton, Westchester - North Tower",White Plains,concrete,44,147.52,completed,2009,2006,3
+Memorial Hermann Tower,Houston,concrete,35,152.4,completed,2009,2006,3
+One Park Place,Houston,concrete,37,152.71,completed,2009,2007,2
+600 North Lake Shore Drive - South Tower,Chicago,concrete,47,156.36,completed,2009,2005,4
+785 8th Avenue,New York City,concrete,42,157.44,completed,2009,2005,4
+The Residences at the Ritz-Carlton,Philadelphia,concrete,46,157.89,completed,2009,2007,2
+Mandarin Oriental Hotel Las Vegas,Las Vegas,concrete/steel,47,164.29,completed,2009,2007,2
+Jade Ocean,Sunny Isles Beach,concrete,51,166,completed,2009,2006,3
+Streeter Place,Chicago,concrete,55,168.76,completed,2009,2007,2
+Paramount at Edgewater Square,Miami,concrete,47,169.14,completed,2009,2006,3
+VDARA,Las Vegas,concrete,55,169.47,completed,2009,2006,3
+The Atlantic,Atlanta,concrete,46,175.87,completed,2009,2007,2
+The Clare at Water Tower,Chicago,concrete,53,179.48,completed,2009,2006,3
+Planet Hollywood Towers,Las Vegas,concrete,50,182,completed,2009,2007,2
+Aria Resort & Casino,Las Vegas,concrete,60,182.88,completed,2009,2006,3
+Epic Residences & Hotel,Miami,concrete,54,183.2,completed,2009,2005,4
+353 North Clark,Chicago,composite,44,189.99,completed,2009,2006,3
+Mint at Riverfront,Miami,concrete,55,192.28,completed,2009,2006,3
+155 North Wacker,Chicago,composite,45,194.57,completed,2009,2007,2
+Millennium Tower,San Francisco,concrete,58,196.6,completed,2009,2004,5
+Silver Towers East,New York City,concrete,58,199.17,completed,2009,2007,2
+Silver Towers West,New York City,concrete,58,199.17,completed,2009,2007,2
+Marquis,Miami,concrete,63,207,completed,2009,2005,4
+Waldorf Astoria Chicago,Chicago,concrete,60,209,completed,2009,2006,3
+One Museum Park,Chicago,concrete,62,221.34,completed,2009,2005,4
+300 North LaSalle,Chicago,composite,60,239.12,completed,2009,2006,3
+Aqua,Chicago,concrete,86,261.75,completed,2009,2007,2
+Bank of America Tower,New York City,composite,55,365.8,completed,2009,2004,5
+Trump International Hotel & Tower,Chicago,concrete,98,423.22,completed,2009,2005,4
+"Grange Mutual Insurance Headquarters, South Building",Columbus,steel,10,43.89,completed,2010,2006,4
+930 Poydras Residential Tower,New Orleans,concrete,21,73.8,completed,2010,2008,2
+The James New York,New York City,concrete,17,77.72,completed,2010,2008,2
+100 11th Avenue,New York City,concrete,22,80.67,completed,2010,2007,3
+Lexington House,New York City,concrete,24,82,completed,2010,2008,2
+360 State Street,New Haven,composite,31,91.44,completed,2010,2008,2
+EnV,Chicago,concrete,28,94,completed,2010,2008,2
+Roberts Tower at Mayfair Plaza,St. Louis,concrete,25,95.1,completed,2010,2007,3
+Mirabella,Portland,concrete,30,99.06,completed,2010,2008,2
+Three PNC Plaza,Pittsburgh,concrete/steel,23,105,completed,2010,2007,3
+Azure,New York City,concrete,32,107.3,completed,2010,2007,3
+Walton on the Park South Tower,Chicago,concrete,31,109.7,completed,2010,2008,2
+Alta at K Station - West Tower,Chicago,concrete,37,115.31,completed,2010,2008,2
+Wachovia Tower,Phoenix,concrete,27,117.3,completed,2010,2007,3
+Loews Midtown,Atlanta,concrete,39,118.19,completed,2010,2007,3
+The Lex,Chicago,concrete,35,118.32,completed,2010,2007,3
+Avalon Fort Greene,New York City,concrete,41,119.79,completed,2010,2008,2
+Four Seasons Residences Austin,Austin,concrete,32,122.25,completed,2010,2008,2
+DKLB BKLN,New York City,concrete,34,123.45,completed,2010,2008,2
+Aspira Apartments,Seattle,concrete,37,124,completed,2010,2007,3
+10 East Delaware,Chicago,concrete,35,126.39,completed,2010,2007,3
+The Pinnacle at Symphony Place,Nashville,concrete,29,127.1,completed,2010,2007,3
+Alta at K Station - East Tower,Chicago,concrete,41,127.14,completed,2010,2008,2
+Hyatt Regency Orlando Expansion Tower,Orlando,concrete,31,130.35,completed,2010,2008,2
+Silver Tower,Chicago,concrete,39,132.08,completed,2010,2007,3
+Element New York Times Square West,New York City,concrete,39,135,completed,2010,2008,2
+200 Squared,Chicago,concrete,42,136.86,completed,2010,2008,2
+Veer Towers East,Las Vegas,composite,36,137,completed,2010,2006,4
+Veer Towers West,Las Vegas,composite,36,137,completed,2010,2006,4
+510 Madison,New York City,steel,31,137.87,completed,2010,2007,3
+Trump SoHo Hotel Condominium,New York City,concrete,42,138.38,completed,2010,2006,4
+8 Stone Street,New York City,concrete,43,139.7,completed,2010,2008,2
+505 West 37th Street East Tower,New York City,concrete,43,143.87,completed,2010,2007,3
+W Austin Hotel & Residences,Austin,concrete,36,145.27,completed,2010,2008,2
+CassaNY,New York City,concrete,45,145.64,completed,2010,2007,3
+The Century,Los Angeles,concrete,42,145.7,completed,2010,2007,3
+1 Bank of America Center,Charlotte,composite,32,147.52,completed,2010,2007,3
+1075 Peachtree Office Tower,Atlanta,concrete,38,148.74,completed,2010,2007,3
+Hess Tower,Houston,concrete,29,149.35,completed,2010,2008,2
+235 West Van Buren,Chicago,concrete,46,149.41,completed,2010,2007,3
+1450 BRICKELL,Miami,concrete,34,152.53,completed,2010,2007,3
+Hudson Greene West Tower,Jersey City,concrete,48,152.82,completed,2010,2006,4
+Met 2 Marriott Marquis,Miami,concrete,41,153.07,completed,2010,2007,3
+215 West,Chicago,concrete,50,155.06,completed,2010,2008,2
+Hudson Greene East Tower,Jersey City,concrete,48,155.14,completed,2010,2006,4
+William Beaver House,New York City,concrete,47,160.78,completed,2010,2006,4
+The Brooklyner,New York City,concrete,52,162,completed,2010,2008,2
+The Vue,Charlotte,concrete,50,175.5,completed,2010,2008,2
+The Grant,Chicago,concrete,54,181.3,completed,2010,2008,2
+Cosmopolitan Casino Beach Club Tower,Las Vegas,concrete/steel,50,183.95,completed,2010,2006,4
+Cosmopolitan Casino Spa Tower,Las Vegas,concrete/steel,52,183.95,completed,2010,2006,4
+Eventi,New York City,concrete,46,187.15,completed,2010,2007,3
+One Madison Park,New York City,concrete,50,189.28,completed,2010,2006,4
+W New York Downtown Hotel & Residences,New York City,concrete,57,192.11,completed,2010,2006,4
+Langham Place,New York City,concrete,59,192.58,completed,2010,2007,3
+Four Seasons Hotel & Private Residences,Denver,concrete,45,194.75,completed,2010,2007,3
+Wells Fargo Tower,Miami,concrete/steel,47,199.5,completed,2010,2007,3
+Ritz-Carlton/Marriott Marquis Los Angeles,Los Angeles,steel,54,203.28,completed,2010,2007,3
+The Austonian,Austin,concrete,56,208.15,completed,2010,2007,3
+Blue Cross-Blue Shield Tower,Chicago,composite,54,226.72,completed,2010,2007,3
+Goldman Sachs Headquarters,New York City,steel,44,228.3,completed,2010,2005,5
+Duke Energy Center,Charlotte,concrete/steel,48,239.7,completed,2010,2007,3
+The Legacy at Millennium Park,Chicago,concrete,73,249.33,completed,2010,2007,3
+HL23,New York City,steel,14,53.67,completed,2011,2008,3
+West Sixth Tempe Tower 1,Tempe,concrete,22,78.64,completed,2011,2005,6
+Omni Dallas Hotel,Dallas,concrete,23,86,completed,2011,2009,2
+Liberty Luxe,New York City,concrete,32,97.54,completed,2011,2009,2
+3 Columbus Circle,New York City,steel,26,102,completed,2011,2008,3
+West Sixth Tempe Tower 2,Tempe,concrete,30,105.16,completed,2011,2005,6
+JW Marriott Indianapolis Downtown,Indianapolis,concrete,34,114.71,completed,2011,2008,3
+99 West City Creek Condominium Tower,Salt Lake City,concrete,30,114.91,completed,2011,2008,3
+The Aldyn,New York City,concrete,38,120.4,completed,2011,2009,2
+The Monaco North Tower,Jersey City,concrete,47,138.7,completed,2011,2009,2
+The Monaco South Tower,Jersey City,concrete,47,138.7,completed,2011,2009,2
+Atlantic Wharf,Boston,composite,31,139,completed,2011,2007,4
+Brickell World Plaza at 600 Brickell,Miami,concrete/steel,40,147.53,completed,2011,2007,4
+Tower 111,New York City,concrete,48,169,completed,2011,2009,2
+Eleven Times Square,New York City,composite,40,183.1,completed,2011,2007,4
+BG Group Place,Houston,concrete,46,192.74,completed,2011,2008,3
+1 MiMA Tower,New York City,concrete,63,194.55,completed,2011,2007,4
+Great American Tower at Queen City Square,Cincinnati,composite,40,202.69,completed,2011,2008,3
+Eight Spruce Street,New York City,concrete,76,265.18,completed,2011,2006,5
+Reva and David Logan Center for Arts,Chicago,concrete/steel,11,51.1,completed,2012,2010,2
+Kaleida Health GVI and UB CRTC,Buffalo,steel,10,57.53,completed,2012,2009,3
+Ronald McDonald House,Chicago,concrete,15,60.37,completed,2012,2010,2
+SoNo East Tower,Chicago,concrete,22,74,completed,2012,2010,2
+Rush University Medical Center Hospital Tower,Chicago,composite,14,76.96,completed,2012,2008,4
+The Tree House Residence Hall at Massachusetts College of Art and Design,Boston,steel,21,85.34,completed,2012,2010,2
+The Gateway,New Brunswick,concrete,22,90.83,completed,2012,2010,2
+U.S. Federal Courthouse,San Diego,steel,16,101.5,completed,2012,2009,3
+Mercedes House,New York City,concrete,32,106.1,completed,2012,2009,3
+Octavius Tower,Las Vegas,steel,23,106.68,completed,2012,2008,4
+The Admiral at the Lake,Chicago,concrete,32,112.17,completed,2012,2008,4
+Pacifica Honolulu,Honolulu,concrete,46,127.4,completed,2012,2007,5
+Ann & Robert H. Lurie Children's Hospital of Chicago,Chicago,composite,22,136.19,completed,2012,2008,4
+"Roosevelt University Academic, Student Life Residence Center",Chicago,concrete/steel,32,143,completed,2012,2010,2
+Lincoln Park 2550,Chicago,concrete,39,145.54,completed,2012,2009,3
+The Ritz-Carlton Residences,Chicago,concrete,40,150.85,completed,2012,2009,3
+1214 Fifth Avenue,New York City,concrete,43,156.41,completed,2012,2010,2
+Revel Resort and Casino,Atlantic City,concrete,53,218.92,completed,2012,2007,5
+Devon Energy Center,Oklahoma City,concrete,52,257.23,completed,2012,2009,3
+Clark and Grand Hotels,Chicago,concrete,19,57.76,completed,2013,2011,2
+The John and Frances Angelos Law Center,Baltimore,concrete,12,70.5,completed,2013,2010,3
+The Martin,Seattle,composite,23,77.72,completed,2013,2012,1
+SkyHouse Orlando,Orlando,concrete,23,80,completed,2013,2012,1
+Via6 North Tower,Seattle,concrete,24,81.4,completed,2013,2011,2
+Via6 South Tower,Seattle,concrete,24,81.4,completed,2013,2011,2
+Omni Hotel,Nashville,concrete,21,85.44,completed,2013,2011,2
+22 Skyview,Miami,concrete,31,87.2,completed,2013,2012,1
+Viceroy New York,New York City,concrete,29,91.1,completed,2013,2011,2
+Skye Building,Charlotte,steel,22,94.5,completed,2013,2006,7
+Gotham West,New York City,concrete,31,97.84,completed,2013,2011,2
+Hilton Hotel at 54th,New York City,concrete,34,103.94,completed,2013,2011,2
+The Moderne,Milwaukee,concrete,30,106.07,completed,2013,2011,2
+45-40 Center Boulevard,New York City,concrete,32,106.7,completed,2013,2011,2
+2116 Chestnut,Philadelphia,concrete,34,108.5,completed,2013,2012,1
+Edith Green-Wendell Wyatt Federal Building,Portland,steel,18,110,completed,2013,2010,3
+K2 at K Station,Chicago,concrete,33,111.56,completed,2013,2011,2
+45-45 Center Boulevard,New York City,concrete,40,118.9,completed,2013,2011,2
+Walker Tower,New York City,steel,24,119.63,completed,2013,2011,2
+46-15 Center Boulevard,New York City,concrete,41,121.92,completed,2013,2011,2
+Linc LIC,New York City,concrete,41,130.75,completed,2013,2011,2
+Hubbard Place,Chicago,concrete,44,136.96,completed,2013,2012,1
+The Dylan,New York City,concrete,34,137.77,completed,2013,2011,2
+Coast at Lakeshore East,Chicago,concrete,47,142.22,completed,2013,2011,2
+500 North Lake Shore Drive,Chicago,concrete,47,151.49,completed,2013,2011,2
+International Gem Tower,New York City,steel,34,152.66,completed,2013,2008,5
+AMLI River North,Chicago,concrete,49,165.48,completed,2013,2011,2
+Hyatt Times Square,New York City,concrete,53,167.64,completed,2013,2009,4
+Museum Tower,Dallas,concrete,42,170.68,completed,2013,2010,3
+250 West 55th Street,New York City,steel,40,183.43,completed,2013,2008,5
+Courtyard & Residence Inn Manhattan/Central Park,New York City,concrete,67,229.62,completed,2013,2011,2
+The Godfrey,Chicago,concrete/steel,16,55.56,completed,2014,2006,8
+Eleven55 Ripley,Silver Spring,concrete,21,60.96,completed,2014,2012,2
+170 Amsterdam Avenue,New York City,concrete,20,66.17,completed,2014,2012,2
+315 on A,Boston,concrete,20,68.58,completed,2014,2012,2
+160 East 22nd Street,New York City,concrete,21,70.4,completed,2014,2013,1
+The Vermont East Tower,Los Angeles,concrete,22,75.3,completed,2014,2012,2
+SkyHouse South,Atlanta,concrete,23,80,completed,2014,2013,1
+Grand East,New York City,concrete,27,80.16,completed,2014,2011,3
+SkyHouse Austin,Austin,concrete,23,80.47,completed,2014,2012,2
+Avalon West Chelsea,New York City,concrete,27,81.69,completed,2014,2012,2
+Twelve | Twelve,Nashville,concrete,23,82.3,completed,2014,2013,1
+Franklin / Illinois Apartments,Chicago,concrete,26,82.9,completed,2014,2013,1
+The Sovereign,Houston,concrete/steel,21,85.35,completed,2014,2012,2
+Nic on Fifth,Minneapolis,concrete,26,88.09,completed,2014,2012,2
+8th and Main Tower,Boise,concrete/steel,18,96,completed,2014,2012,2
+The Vermont West Tower,Los Angeles,concrete,29,97.1,completed,2014,2012,2
+Avalon Exeter,Boston,steel,28,97.5,completed,2014,2011,3
+Flagler on the River,Miami,concrete,32,97.84,completed,2014,2013,1
+The Lara,New York City,concrete,30,98.45,completed,2014,2012,2
+Abington House on the Highline,New York City,concrete,33,99,completed,2014,2012,2
+MyBrickell,Miami,concrete,25,99.4,completed,2014,2012,2
+Post Oak,Houston,concrete,29,100.6,completed,2014,2012,2
+LPM Apartments,Minneapolis,concrete,36,114.1,completed,2014,2012,2
+Northwestern Medicine 259 East Erie,Chicago,concrete/steel,26,117.47,completed,2014,2012,2
+1812 North Moore Street,Arlington,concrete,30,117.81,completed,2014,2011,3
+Hilton Garden Inn,New York City,concrete,37,123.44,completed,2014,2012,2
+Two Sutton Place North,New York City,concrete,41,128.17,completed,2014,2012,2
+Evo at Cira Centre South,Philadelphia,concrete,36,130,completed,2014,2013,1
+BKLYN Air,New York City,concrete,39,131.67,completed,2014,2008,6
+Optima Chicago Center,Chicago,concrete,42,134.9,completed,2014,2011,3
+66 Rockwell Place,New York City,concrete,42,139.3,completed,2014,2011,3
+Summit on Lake,Chicago,concrete,42,145.54,completed,2014,2012,2
+The Modern Tower A,Fort Lee,concrete,47,151.8,completed,2014,2012,2
+BrickellHouse,Miami,concrete,48,155.04,completed,2014,2012,2
+One Rincon Hill North Tower,San Francisco,steel,45,165,completed,2014,2012,2
+388 Bridge Street,New York City,concrete,51,179.83,completed,2014,2012,2
+Hawthorn Park,New York City,concrete,54,182.25,completed,2014,2012,2
+OneEleven,Chicago,concrete,58,186.77,completed,2014,2013,1
+4 World Trade Center,New York City,composite,65,297.73,completed,2014,2008,6
+One57,New York City,concrete/steel,75,306.07,completed,2014,2009,5
+One World Trade Center,New York City,composite,94,541.3,completed,2014,2006,8
+The Crimson,Miami,concrete,18,61.6,completed,2015,2013,2
+Hyatt Place,Chicago,concrete,17,64.4,completed,2015,2014,1
+Hilton Garden Inn,Chicago,concrete,25,77.42,completed,2015,2014,1
+Sunset and Gordon,Los Angeles,concrete,23,79.2,completed,2015,2012,3
+Hotel Indigo on Orchard Street,New York City,steel,24,79.85,completed,2015,2004,11
+Seven,Austin,concrete,24,80.16,completed,2015,2013,2
+480 Main Street,New York City,concrete,21,81,completed,2015,2014,1
+SkyHouse Houston,Houston,concrete,24,83.82,completed,2015,2013,2
+The Summit at University City,Philadelphia,concrete,24,85,completed,2015,2014,1
+Frost Tower,Dallas,concrete,22,85.04,completed,2015,2013,2
+SkyHouse River Oaks,Houston,concrete,25,86.6,completed,2015,2014,1
+551 West 21st Street,New York City,concrete,19,88.39,completed,2015,2013,2
+One Light,Kansas City,concrete,25,91.4,completed,2015,2014,1
+Purves I,New York City,concrete,28,93.9,completed,2015,2014,1
+4Marq,Minneapolis,concrete,30,94.79,completed,2015,2014,1
+29-07 Queens Plaza North,New York City,concrete,31,100,completed,2015,2013,2
+220 West 41st Street,New York City,concrete,30,101.2,completed,2015,2013,2
+35XV Residences,New York City,concrete/steel,25,102,completed,2015,2012,3
+Cielo,Seattle,composite,31,102.1,completed,2015,2013,2
+301 East 50th Street,New York City,concrete,29,104.25,completed,2015,2013,2
+Eight O Five,Chicago,concrete,33,105.2,completed,2015,2013,2
+One Riverside Park,New York City,concrete,33,105.2,completed,2015,2013,2
+Hunter's Point South Tower 2,New York City,concrete,32,108,completed,2015,2013,2
+Halcyon,New York City,concrete,32,109.73,completed,2015,2007,8
+Bay House Miami Residences,Miami,concrete,36,110,completed,2015,2013,2
+Arkadia Tower,Chicago,concrete,33,112.42,completed,2015,2013,2
+The One,Jersey City,concrete,35,114.3,completed,2015,2013,2
+535 Mission Street,San Francisco,composite,26,115.37,completed,2015,2008,7
+NINE at Mary Brickell Village,Miami,concrete,34,115.5,completed,2015,2004,11
+33 Beekman Street,New York City,concrete,34,117,completed,2015,2013,2
+The Metropolitan at the 9,Cleveland,composite,28,119,completed,2015,2013,2
+325 LEX,New York City,concrete,31,119.79,completed,2015,2012,3
+1N4th,New York City,concrete,41,121.3,completed,2015,2012,3
+The Charles,New York City,concrete,31,121.31,completed,2015,2013,2
+Hunter's Point South Tower 1,New York City,concrete,37,123.1,completed,2015,2013,2
+JW Marriott Convention Hotel,Austin,concrete,34,124.4,completed,2015,2012,3
+801 South Street Building A,Honolulu,concrete,46,126.03,completed,2015,2013,2
+The Bowie,Austin,concrete,37,128.9,completed,2015,2012,3
+Waihonua at Kewalo,Honolulu,concrete,43,129.8,completed,2015,2013,2
+218 West 35th Street,New York City,concrete,39,131.67,completed,2015,2013,2
+Insignia South Tower,Seattle,concrete,41,134,completed,2015,2012,3
+Cirrus,Seattle,concrete,39,134.1,completed,2015,2013,2
+Premier on Pine,Seattle,concrete,39,135.33,completed,2015,2012,3
+Chateau Beach Residences,Sunny Isles Beach,concrete,34,136.8,completed,2015,2012,3
+7 Bryant Park,New York City,composite,29,137.41,completed,2015,2013,2
+1100 Millicento Residences,Miami,concrete,42,143.3,completed,2015,2012,3
+135 West 52nd Street,New York City,concrete,46,144.78,completed,2015,2013,2
+400 Park Avenue South,New York City,concrete,42,144.98,completed,2015,2012,3
+160 Madison Avenue,New York City,concrete,42,146.3,completed,2015,2013,2
+Regalia,Sunny Isles Beach,concrete,43,147.75,completed,2015,2011,4
+99 Washington Street,New York City,concrete,50,147.78,completed,2015,2011,4
+Icon Bay,Miami,concrete,42,150.57,completed,2015,2013,2
+70 Columbus,Jersey City,concrete,50,161.39,completed,2015,2013,2
+2929 Weslayan,Houston,concrete,40,162.5,completed,2015,2013,2
+455 North Park Drive ?Loews Chicago Hotel,Chicago,concrete,49,166.57,completed,2015,2012,3
+50 United Nations Plaza,New York City,concrete,44,167,completed,2015,2012,3
+The Tower at PNC Plaza,Pittsburgh,composite,33,172,completed,2015,2012,3
+Avalon Willoughby West,New York City,concrete,57,181.66,completed,2015,2013,2
+Baccarat Hotel & Residences,New York City,concrete,46,184.51,completed,2015,2012,3
+Mansions at Acqualina,Sunny Isles Beach,concrete,46,196,completed,2015,2012,3
+Sky,New York City,concrete,61,206,completed,2015,2008,7
+432 Park Avenue,New York City,concrete,85,425.5,completed,2015,2011,4
+City Hyde Park,Chicago,concrete,14,52.39,completed,2016,2014,2
+Wolf Point West Tower,Chicago,concrete,48,148.08,completed,2016,2014,2
+Amazon Tower I,Seattle,composite,37,159.72,completed,2016,2013,3
